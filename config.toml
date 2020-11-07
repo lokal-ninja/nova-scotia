@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/nova-scotia"
+languageCode = "en-US"
+title = "Nova Scotia"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "nova-scotia"
