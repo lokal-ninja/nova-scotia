@@ -1,4 +1,4 @@
 ---
-title: "Wicker emporium"
+title: "Wicker Emporium"
 url: /bedford/wicker-emporium/
 ---
