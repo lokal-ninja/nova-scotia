@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /halifax/bentley/
-shop: shop
+shop: bag
 ---
