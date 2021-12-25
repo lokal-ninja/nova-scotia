@@ -1,5 +1,5 @@
 ---
 title: "Eastlink"
 url: /halifax/eastlink/
-shop: electronics
+shop: mobile phone
 ---
