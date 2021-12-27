@@ -1,6 +1,6 @@
 ---
 title: Eskasoni
 url: /eskasoni/
-latitude: 
-longitude: 
+latitude: 45.944
+longitude: -60.614
 ---

@@ -1,6 +1,6 @@
 ---
 title: Louisdale
 url: /louisdale/
-latitude: 45.611550300000005
-longitude: -61.0647382
+latitude: 45.607
+longitude: -61.078
 ---

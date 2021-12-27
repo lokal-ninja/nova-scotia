@@ -1,6 +1,6 @@
 ---
 title: Pubnico
 url: /pubnico/
-latitude: 43.7024423
-longitude: -65.7839702
+latitude: 43.707
+longitude: -65.778
 ---

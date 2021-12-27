@@ -1,6 +1,6 @@
 ---
 title: Shelburne
 url: /shelburne/
-latitude: 43.7101248
-longitude: -65.3683422
+latitude: 43.778
+longitude: -65.338
 ---

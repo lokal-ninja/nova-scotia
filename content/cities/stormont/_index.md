@@ -1,6 +1,6 @@
 ---
 title: Stormont
 url: /stormont/
-latitude: 45.2238381
-longitude: -61.7399318
+latitude: 45.223
+longitude: -61.737
 ---

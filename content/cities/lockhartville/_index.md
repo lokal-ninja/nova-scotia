@@ -1,6 +1,6 @@
 ---
 title: Lockhartville
 url: /lockhartville/
-latitude: 45.073157
-longitude: -64.2164614
+latitude: 45.068
+longitude: -64.22
 ---

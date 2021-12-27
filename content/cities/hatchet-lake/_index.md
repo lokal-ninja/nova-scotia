@@ -1,6 +1,6 @@
 ---
 title: Hatchet Lake
 url: /hatchet-lake/
-latitude: 
-longitude: 
+latitude: 44.56
+longitude: -63.731
 ---

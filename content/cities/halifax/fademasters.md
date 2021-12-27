@@ -1,5 +1,5 @@
 ---
 title: "Fademasters"
 url: /halifax/fademasters/
-shop: hairdresser
+shop: Friseur
 ---

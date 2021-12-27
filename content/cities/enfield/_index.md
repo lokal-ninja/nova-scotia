@@ -1,6 +1,6 @@
 ---
 title: Enfield
 url: /enfield/
-latitude: 
-longitude: 
+latitude: 44.928
+longitude: -63.537
 ---

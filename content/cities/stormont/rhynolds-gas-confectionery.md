@@ -1,5 +1,5 @@
 ---
 title: "Rhynold's Gas Confectionery"
 url: /stormont/rhynolds-gas-confectionery/
-shop: convenience
+shop: Lebensmittel
 ---

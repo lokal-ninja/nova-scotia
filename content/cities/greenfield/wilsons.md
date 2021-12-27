@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /greenfield/wilsons/
-shop: convenience
+shop: Lebensmittel
 ---

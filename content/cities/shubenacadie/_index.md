@@ -1,6 +1,6 @@
 ---
 title: Shubenacadie
 url: /shubenacadie/
-latitude: 45.086527200000006
-longitude: -63.4095913
+latitude: 45.088
+longitude: -63.405
 ---

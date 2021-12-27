@@ -1,5 +1,5 @@
 ---
 title: "Nygard"
 url: /bedford/nygard/
-shop: clothes
+shop: Kleidung
 ---

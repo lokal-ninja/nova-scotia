@@ -1,5 +1,5 @@
 ---
 title: "Sportchek"
 url: /halifax/sportchek/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SoftMoc"
 url: /bedford/softmoc/
-shop: shoes
+shop: Schuhe
 ---

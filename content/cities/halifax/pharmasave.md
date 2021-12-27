@@ -1,5 +1,5 @@
 ---
 title: "Pharmasave"
 url: /halifax/pharmasave/
-shop: chemist
+shop: Drogerie
 ---

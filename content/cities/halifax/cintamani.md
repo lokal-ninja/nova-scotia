@@ -1,5 +1,5 @@
 ---
 title: "Cintamani"
 url: /halifax/cintamani/
-shop: clothes
+shop: Kleidung
 ---

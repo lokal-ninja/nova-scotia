@@ -1,6 +1,6 @@
 ---
 title: New Minas
 url: /new-minas/
-latitude: 45.0659745
-longitude: -64.4556651
+latitude: 45.057
+longitude: -64.471
 ---

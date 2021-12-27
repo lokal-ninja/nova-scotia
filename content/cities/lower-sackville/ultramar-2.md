@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /lower-sackville/ultramar-2/
-shop: convenience
+shop: Lebensmittel
 ---

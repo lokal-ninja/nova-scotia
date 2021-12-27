@@ -1,6 +1,6 @@
 ---
 title: Fall River
 url: /fall-river/
-latitude: 44.8191915
-longitude: -63.611737500000004
+latitude: 44.818
+longitude: -63.61
 ---

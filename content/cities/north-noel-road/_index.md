@@ -1,6 +1,6 @@
 ---
 title: North Noel Road
 url: /north-noel-road/
-latitude: 45.2304151
-longitude: -63.7462808
+latitude: 45.222
+longitude: -63.745
 ---

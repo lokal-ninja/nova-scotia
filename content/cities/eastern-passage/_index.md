@@ -1,6 +1,6 @@
 ---
 title: Eastern Passage
 url: /eastern-passage/
-latitude: 44.6116121
-longitude: -63.4895289
+latitude: 44.613
+longitude: -63.49
 ---

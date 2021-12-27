@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /truro/irving/
-shop: convenience
+shop: Lebensmittel
 ---

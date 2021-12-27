@@ -1,6 +1,6 @@
 ---
 title: Tantallon
 url: /tantallon/
-latitude: 
-longitude: 
+latitude: 44.665
+longitude: -63.895
 ---

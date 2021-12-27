@@ -1,6 +1,6 @@
 ---
 title: Micmac
 url: /micmac/
-latitude: 45.615261700000005
-longitude: -62.5264791
+latitude: 45.085
+longitude: -63.454
 ---

@@ -1,6 +1,6 @@
 ---
 title: Port Hawkesbury
 url: /port-hawkesbury/
-latitude: 45.6180851
-longitude: -61.357458900000005
+latitude: 45.616
+longitude: -61.336
 ---

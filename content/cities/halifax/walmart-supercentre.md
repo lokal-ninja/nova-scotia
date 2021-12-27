@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /halifax/walmart-supercentre/
-shop: supermarket
+shop: Supermarkt
 ---

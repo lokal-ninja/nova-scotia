@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /dartmouth/winners/
-shop: clothes
+shop: Kleidung
 ---

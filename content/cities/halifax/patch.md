@@ -1,5 +1,5 @@
 ---
 title: "Patch"
 url: /halifax/patch/
-shop: shop
+shop: Allgemein
 ---

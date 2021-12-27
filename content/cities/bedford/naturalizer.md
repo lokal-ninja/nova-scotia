@@ -1,5 +1,5 @@
 ---
 title: "Naturalizer"
 url: /bedford/naturalizer/
-shop: shoes
+shop: Schuhe
 ---

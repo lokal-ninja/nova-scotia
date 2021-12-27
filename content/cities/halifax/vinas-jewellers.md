@@ -1,5 +1,5 @@
 ---
 title: "Vina's Jewellers"
 url: /halifax/vinas-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

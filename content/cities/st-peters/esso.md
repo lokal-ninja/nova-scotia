@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /st-peters/esso/
-shop: convenience
+shop: Lebensmittel
 ---

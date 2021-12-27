@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /granville-ferry/irving/
-shop: convenience
+shop: Lebensmittel
 ---

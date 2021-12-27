@@ -1,5 +1,5 @@
 ---
 title: "The Loop"
 url: /halifax/the-loop/
-shop: fabric
+shop: Textil
 ---

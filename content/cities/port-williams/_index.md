@@ -1,6 +1,6 @@
 ---
 title: Port Williams
 url: /port-williams/
-latitude: 45.0979991
-longitude: -64.4100054
+latitude: 45.096
+longitude: -64.408
 ---

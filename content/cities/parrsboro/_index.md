@@ -1,6 +1,6 @@
 ---
 title: Parrsboro
 url: /parrsboro/
-latitude: 45.4054809
-longitude: -64.326059
+latitude: 45.406
+longitude: -64.325
 ---

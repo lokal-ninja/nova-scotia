@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /kentville/peterbilt/
-shop: car
+shop: Autohaus
 ---

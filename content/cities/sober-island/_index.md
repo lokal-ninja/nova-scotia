@@ -1,6 +1,6 @@
 ---
 title: Sober Island
 url: /sober-island/
-latitude: 44.8491754
-longitude: -62.4657817
+latitude: 44.845
+longitude: -62.464
 ---

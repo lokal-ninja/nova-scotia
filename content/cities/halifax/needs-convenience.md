@@ -1,5 +1,5 @@
 ---
 title: "Needs Convenience"
 url: /halifax/needs-convenience/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleo"
 url: /bedford/cleo/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Liverpool
 url: /liverpool/
-latitude: 44.036104
-longitude: -64.7172992
+latitude: 44.022
+longitude: -64.723
 ---

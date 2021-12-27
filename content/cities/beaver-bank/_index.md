@@ -1,6 +1,6 @@
 ---
 title: Beaver Bank
 url: /beaver-bank/
-latitude: 44.904361300000005
-longitude: -63.712692100000005
+latitude: 44.803
+longitude: -63.688
 ---

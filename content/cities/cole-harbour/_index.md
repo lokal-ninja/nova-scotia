@@ -1,6 +1,6 @@
 ---
 title: Cole Harbour
 url: /cole-harbour/
-latitude: 
-longitude: 
+latitude: 44.672
+longitude: -63.492
 ---

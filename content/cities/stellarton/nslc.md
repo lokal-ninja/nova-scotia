@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /stellarton/nslc/
-shop: alcohol
+shop: Spirituosen
 ---

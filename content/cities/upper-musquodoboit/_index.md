@@ -1,6 +1,6 @@
 ---
 title: Upper Musquodoboit
 url: /upper-musquodoboit/
-latitude: 
-longitude: 
+latitude: 45.138
+longitude: -62.949
 ---

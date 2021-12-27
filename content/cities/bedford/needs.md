@@ -1,5 +1,5 @@
 ---
 title: "Needs"
 url: /bedford/needs/
-shop: convenience
+shop: Lebensmittel
 ---

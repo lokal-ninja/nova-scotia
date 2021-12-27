@@ -1,6 +1,6 @@
 ---
 title: Blockhouse
 url: /blockhouse/
-latitude: 44.447480000000006
-longitude: -64.4127332
+latitude: 44.47
+longitude: -64.444
 ---

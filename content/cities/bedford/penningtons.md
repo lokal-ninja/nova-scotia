@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /bedford/penningtons/
-shop: clothes
+shop: Kleidung
 ---

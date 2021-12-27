@@ -1,6 +1,6 @@
 ---
 title: Coldbrook
 url: /coldbrook/
-latitude: 45.063432500000005
-longitude: -64.5882624
+latitude: 45.068
+longitude: -64.567
 ---

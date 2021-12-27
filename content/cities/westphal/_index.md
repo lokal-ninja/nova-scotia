@@ -1,6 +1,6 @@
 ---
 title: Westphal
 url: /westphal/
-latitude: 44.701480100000005
-longitude: -63.4764283
+latitude: 44.696
+longitude: -63.496
 ---

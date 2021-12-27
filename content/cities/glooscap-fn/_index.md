@@ -1,6 +1,6 @@
 ---
 title: Glooscap FN
 url: /glooscap-fn/
-latitude: 
-longitude: 
+latitude: 45.044
+longitude: -64.229
 ---

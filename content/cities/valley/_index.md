@@ -1,6 +1,6 @@
 ---
 title: Valley
 url: /valley/
-latitude: 45.388567800000004
-longitude: -63.19894300000001
+latitude: 45.397
+longitude: -63.207
 ---

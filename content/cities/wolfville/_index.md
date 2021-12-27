@@ -1,6 +1,6 @@
 ---
 title: Wolfville
 url: /wolfville/
-latitude: 
-longitude: 
+latitude: 45.066
+longitude: -64.374
 ---

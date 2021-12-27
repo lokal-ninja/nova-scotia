@@ -1,6 +1,6 @@
 ---
 title: Bear River
 url: /bear-river/
-latitude: 44.578852600000005
-longitude: -65.635586
+latitude: 44.576
+longitude: -65.641
 ---

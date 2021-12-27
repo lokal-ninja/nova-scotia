@@ -1,5 +1,5 @@
 ---
 title: "Enliven Hair Salon"
 url: /wolfville/enliven-hair-salon/
-shop: beauty
+shop: Kosmetik
 ---

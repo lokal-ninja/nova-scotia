@@ -1,6 +1,6 @@
 ---
 title: Middle Musquodoboit
 url: /middle-musquodoboit/
-latitude: 
-longitude: 
+latitude: 45.047
+longitude: -63.144
 ---

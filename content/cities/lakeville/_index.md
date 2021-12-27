@@ -1,6 +1,6 @@
 ---
 title: Lakeville
 url: /lakeville/
-latitude: 45.1106695
-longitude: -64.60500230000001
+latitude: 45.114
+longitude: -64.598
 ---

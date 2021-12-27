@@ -1,5 +1,5 @@
 ---
 title: "Spring Garden Place"
 url: /halifax/spring-garden-place/
-shop: mall
+shop: Einkaufszentrum
 ---

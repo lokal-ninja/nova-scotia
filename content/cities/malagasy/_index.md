@@ -1,6 +1,6 @@
 ---
 title: Malagasy
 url: /malagasy/
-latitude: 
-longitude: 
+latitude: 45.797
+longitude: -63.377
 ---

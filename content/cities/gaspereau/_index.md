@@ -1,6 +1,6 @@
 ---
 title: Gaspereau
 url: /gaspereau/
-latitude: 45.067944100000005
-longitude: -64.3527607
+latitude: 45.068
+longitude: -64.352
 ---

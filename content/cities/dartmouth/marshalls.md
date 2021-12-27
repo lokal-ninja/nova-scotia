@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /dartmouth/marshalls/
-shop: department store
+shop: Warenhaus
 ---

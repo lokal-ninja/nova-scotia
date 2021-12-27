@@ -1,6 +1,6 @@
 ---
 title: Pinehurst
 url: /pinehurst/
-latitude: 
-longitude: 
+latitude: 44.531
+longitude: -64.695
 ---

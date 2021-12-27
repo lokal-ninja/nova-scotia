@@ -1,6 +1,6 @@
 ---
 title: Springhill
 url: /springhill/
-latitude: 45.6420091
-longitude: -64.0573285
+latitude: 45.67
+longitude: -64.069
 ---
