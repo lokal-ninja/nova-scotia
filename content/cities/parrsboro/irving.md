@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /parrsboro/irving/
-shop: Lebensmittel
+shop: convenience
 ---

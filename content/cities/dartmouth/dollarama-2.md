@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /dartmouth/dollarama-2/
-shop: Kramladen
+shop: variety store
 ---

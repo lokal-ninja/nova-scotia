@@ -1,5 +1,5 @@
 ---
 title: "Mic Mac Mall"
 url: /dartmouth/mic-mac-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

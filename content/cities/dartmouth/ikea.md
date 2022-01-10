@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /dartmouth/ikea/
-shop: Möbel
+shop: furniture
 ---

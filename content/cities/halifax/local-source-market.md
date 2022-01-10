@@ -1,5 +1,5 @@
 ---
 title: "Local Source Market"
 url: /halifax/local-source-market/
-shop: Supermarkt
+shop: supermarket
 ---

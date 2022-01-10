@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /upper-tantallon/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

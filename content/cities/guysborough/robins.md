@@ -1,5 +1,5 @@
 ---
 title: "Robin's"
 url: /guysborough/robins/
-shop: Lebensmittel
+shop: convenience
 ---

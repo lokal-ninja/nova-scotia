@@ -1,5 +1,5 @@
 ---
 title: "Down Home Dog"
 url: /halifax/down-home-dog/
-shop: Tiere
+shop: pet
 ---

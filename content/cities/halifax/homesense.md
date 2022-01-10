@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /halifax/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

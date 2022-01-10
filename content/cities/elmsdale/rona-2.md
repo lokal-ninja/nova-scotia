@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /elmsdale/rona-2/
-shop: Baumarkt
+shop: doityourself
 ---

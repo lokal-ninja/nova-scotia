@@ -1,5 +1,5 @@
 ---
 title: "Structube"
 url: /dartmouth/structube/
-shop: Möbel
+shop: furniture
 ---

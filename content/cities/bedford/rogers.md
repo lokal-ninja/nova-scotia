@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /bedford/rogers/
-shop: Handy
+shop: mobile phone
 ---

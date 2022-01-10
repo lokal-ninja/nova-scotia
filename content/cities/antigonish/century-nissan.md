@@ -1,5 +1,5 @@
 ---
 title: "Century Nissan"
 url: /antigonish/century-nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /halifax/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Techmania"
 url: /cole-harbour/techmania/
-shop: Elektronik
+shop: electronics
 ---

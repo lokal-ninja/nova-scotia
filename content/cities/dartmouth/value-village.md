@@ -1,5 +1,5 @@
 ---
 title: "Value Village"
 url: /dartmouth/value-village/
-shop: Kramladen
+shop: variety store
 ---

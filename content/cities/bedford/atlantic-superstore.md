@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Superstore"
 url: /bedford/atlantic-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

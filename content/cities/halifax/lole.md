@@ -1,5 +1,5 @@
 ---
 title: "Lole"
 url: /halifax/lole/
-shop: Kleidung
+shop: clothes
 ---

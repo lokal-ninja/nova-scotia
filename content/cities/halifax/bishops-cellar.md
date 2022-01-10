@@ -1,5 +1,5 @@
 ---
 title: "Bishop's Cellar"
 url: /halifax/bishops-cellar/
-shop: Spirituosen
+shop: alcohol
 ---

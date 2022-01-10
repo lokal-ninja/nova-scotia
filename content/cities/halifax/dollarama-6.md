@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /halifax/dollarama-6/
-shop: Kramladen
+shop: variety store
 ---

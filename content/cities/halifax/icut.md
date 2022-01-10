@@ -1,5 +1,5 @@
 ---
 title: "iCUT"
 url: /halifax/icut/
-shop: Friseur
+shop: hairdresser
 ---

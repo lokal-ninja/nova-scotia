@@ -1,5 +1,5 @@
 ---
 title: "Maid in the Maritimes"
 url: /bedford/maid-in-the-maritimes/
-shop: Kunst
+shop: art
 ---

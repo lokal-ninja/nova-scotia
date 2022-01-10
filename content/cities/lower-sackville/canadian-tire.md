@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /lower-sackville/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

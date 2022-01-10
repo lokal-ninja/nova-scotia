@@ -1,5 +1,5 @@
 ---
 title: "Lee Valley Tools"
 url: /halifax/lee-valley-tools/
-shop: Eisenwaren
+shop: hardware
 ---

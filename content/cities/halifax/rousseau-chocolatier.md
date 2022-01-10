@@ -1,5 +1,5 @@
 ---
 title: "Rousseau Chocolatier"
 url: /halifax/rousseau-chocolatier/
-shop: Schokolade
+shop: chocolate
 ---

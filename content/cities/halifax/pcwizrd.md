@@ -1,5 +1,5 @@
 ---
 title: "PCWizrd"
 url: /halifax/pcwizrd/
-shop: Computer
+shop: computer
 ---

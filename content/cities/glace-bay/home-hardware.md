@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /glace-bay/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

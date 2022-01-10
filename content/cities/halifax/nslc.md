@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /halifax/nslc/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Needs"
 url: /yarmouth/needs/
-shop: Lebensmittel
+shop: convenience
 ---

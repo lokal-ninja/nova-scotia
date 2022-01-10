@@ -1,5 +1,5 @@
 ---
 title: "Fuel Stop"
 url: /birch-plain/fuel-stop/
-shop: Lebensmittel
+shop: convenience
 ---

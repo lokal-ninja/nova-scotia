@@ -1,5 +1,5 @@
 ---
 title: "Jysk"
 url: /dartmouth/jysk/
-shop: Möbel
+shop: furniture
 ---

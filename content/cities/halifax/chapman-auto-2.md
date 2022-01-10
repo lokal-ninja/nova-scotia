@@ -1,5 +1,5 @@
 ---
 title: "Chapman Auto"
 url: /halifax/chapman-auto-2/
-shop: Autowerkstatt
+shop: car repair
 ---

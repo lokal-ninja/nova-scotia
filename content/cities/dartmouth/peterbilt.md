@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt"
 url: /dartmouth/peterbilt/
-shop: Autohaus
+shop: car
 ---

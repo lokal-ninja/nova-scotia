@@ -1,5 +1,5 @@
 ---
 title: "Needs"
 url: /antigonish/needs/
-shop: Lebensmittel
+shop: convenience
 ---

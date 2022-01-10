@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /dartmouth/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

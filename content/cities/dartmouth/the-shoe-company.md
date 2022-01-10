@@ -1,5 +1,5 @@
 ---
 title: "The Shoe Company"
 url: /dartmouth/the-shoe-company/
-shop: Schuhe
+shop: shoes
 ---

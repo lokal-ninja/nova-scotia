@@ -1,5 +1,5 @@
 ---
 title: "Wirelesswave"
 url: /bedford/wirelesswave/
-shop: Handy
+shop: mobile phone
 ---

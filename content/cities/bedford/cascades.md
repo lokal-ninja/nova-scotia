@@ -1,5 +1,5 @@
 ---
 title: "Cascades"
 url: /bedford/cascades/
-shop: Massage
+shop: massage
 ---

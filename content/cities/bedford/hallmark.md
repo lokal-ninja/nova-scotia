@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /bedford/hallmark/
-shop: Andenken
+shop: gift
 ---

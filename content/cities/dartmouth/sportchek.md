@@ -1,5 +1,5 @@
 ---
 title: "SportChek"
 url: /dartmouth/sportchek/
-shop: Sport
+shop: sports
 ---

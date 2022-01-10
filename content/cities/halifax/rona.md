@@ -1,5 +1,5 @@
 ---
 title: "RONA"
 url: /halifax/rona/
-shop: Eisenwaren
+shop: hardware
 ---

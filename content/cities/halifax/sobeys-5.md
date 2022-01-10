@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /halifax/sobeys-5/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JJ Mart"
 url: /halifax/jj-mart/
-shop: Supermarkt
+shop: supermarket
 ---

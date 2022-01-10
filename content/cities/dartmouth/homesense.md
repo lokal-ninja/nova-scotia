@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /dartmouth/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

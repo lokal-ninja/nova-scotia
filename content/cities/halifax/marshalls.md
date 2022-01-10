@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /halifax/marshalls/
-shop: Warenhaus
+shop: department store
 ---

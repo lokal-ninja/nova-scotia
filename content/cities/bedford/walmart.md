@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /bedford/walmart/
-shop: Warenhaus
+shop: department store
 ---

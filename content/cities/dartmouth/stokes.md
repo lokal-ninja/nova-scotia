@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /dartmouth/stokes/
-shop: Haushaltsartikel
+shop: houseware
 ---

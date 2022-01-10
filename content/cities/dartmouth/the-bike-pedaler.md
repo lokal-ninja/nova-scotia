@@ -1,5 +1,5 @@
 ---
 title: "The Bike Pedaler"
 url: /dartmouth/the-bike-pedaler/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "New Ground Ink"
 url: /halifax/new-ground-ink/
-shop: Tattoo
+shop: tattoo
 ---

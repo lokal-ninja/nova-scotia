@@ -1,5 +1,5 @@
 ---
 title: "Mazda"
 url: /dartmouth/mazda/
-shop: Autohaus
+shop: car
 ---

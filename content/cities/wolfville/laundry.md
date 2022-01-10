@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
 url: /wolfville/laundry/
-shop: Wäscherei
+shop: laundry
 ---

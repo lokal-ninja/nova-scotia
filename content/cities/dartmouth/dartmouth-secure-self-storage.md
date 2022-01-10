@@ -1,5 +1,5 @@
 ---
 title: "Dartmouth Secure Self Storage"
 url: /dartmouth/dartmouth-secure-self-storage/
-shop: Mieten
+shop: storage rental
 ---

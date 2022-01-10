@@ -1,5 +1,5 @@
 ---
 title: "Staples Business Depot"
 url: /halifax/staples-business-depot/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Herring Co-op Ltd."
 url: /yarmouth/atlantic-herring-co-op-ltd/
-shop: Fisch
+shop: seafood
 ---
