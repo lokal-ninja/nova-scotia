@@ -1,6 +1,6 @@
 ---
 title: Baddeck
 url: /baddeck/
-latitude: 46.088
-longitude: -60.781
+latitude: 46.1
+longitude: -60.749
 ---
