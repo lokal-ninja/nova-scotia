@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/nova-scotia"
+baseURL = "https://ca.shoogle.net/nova-scotia/"
 languageCode = "en-US"
 title = "Nova Scotia"
 theme = "ln-base"
