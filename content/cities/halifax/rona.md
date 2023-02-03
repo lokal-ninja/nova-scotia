@@ -1,5 +1,5 @@
 ---
-title: "RONA"
+title: "Rona"
 url: /halifax/rona/
-shop: hardware
+shop: doityourself
 ---
