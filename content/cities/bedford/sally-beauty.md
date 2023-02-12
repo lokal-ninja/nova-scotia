@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /bedford/sally-beauty/
-shop: beauty
+shop: hairdresser supply
 ---

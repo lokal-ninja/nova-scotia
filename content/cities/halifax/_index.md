@@ -1,6 +1,6 @@
 ---
 title: Halifax
 url: /halifax/
-latitude: 44.645
-longitude: -63.597
+latitude: 44.644
+longitude: -63.569
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maritime Centre"
-url: /halifax/maritime-centre-2/
+url: /halifax/maritime-centre/
 shop: mall
 ---
