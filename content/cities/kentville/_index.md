@@ -1,6 +1,6 @@
 ---
 title: Kentville
 url: /kentville/
-latitude: 45.064
-longitude: -64.554
+latitude: 45.078
+longitude: -64.496
 ---
