@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /cole-harbour/canadian-tire/
-shop: hardware
+shop: department store
 ---
