@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
-url: /halifax/nslc/
+url: /halifax/nslc-clyde-street/
 shop: alcohol
 ---

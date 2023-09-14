@@ -1,5 +1,5 @@
 ---
 title: "Vogue Optical"
-url: /halifax/vogue-optical/
+url: /halifax/vogue-optical-quinpool-road/
 shop: optician
 ---

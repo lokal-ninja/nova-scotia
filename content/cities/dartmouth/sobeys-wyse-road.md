@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /dartmouth/sobeys/
+url: /dartmouth/sobeys-wyse-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lole"
-url: /halifax/lole/
+url: /halifax/lole-upper-water-street/
 shop: clothes
 ---

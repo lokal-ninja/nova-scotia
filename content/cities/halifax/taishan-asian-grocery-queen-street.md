@@ -1,5 +1,5 @@
 ---
 title: "Taishan Asian Grocery"
-url: /halifax/taishan-asian-grocery/
+url: /halifax/taishan-asian-grocery-queen-street/
 shop: supermarket
 ---

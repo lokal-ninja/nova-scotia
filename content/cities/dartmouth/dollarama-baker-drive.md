@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /dartmouth/dollarama/
+url: /dartmouth/dollarama-baker-drive/
 shop: variety store
 ---

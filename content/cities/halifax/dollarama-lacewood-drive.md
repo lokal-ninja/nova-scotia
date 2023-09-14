@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /halifax/dollarama/
+url: /halifax/dollarama-lacewood-drive/
 shop: variety store
 ---

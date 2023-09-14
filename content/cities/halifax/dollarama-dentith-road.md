@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /halifax/dollarama/
+url: /halifax/dollarama-dentith-road/
 shop: variety store
 ---

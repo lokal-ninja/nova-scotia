@@ -1,5 +1,5 @@
 ---
 title: "Eastlink"
-url: /halifax/eastlink/
+url: /halifax/eastlink-spring-garden-road/
 shop: electronics
 ---

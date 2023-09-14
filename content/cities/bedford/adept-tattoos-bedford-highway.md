@@ -1,5 +1,5 @@
 ---
 title: "Adept Tattoos"
-url: /bedford/adept-tattoos/
+url: /bedford/adept-tattoos-bedford-highway/
 shop: tattoo
 ---

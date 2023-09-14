@@ -1,5 +1,5 @@
 ---
 title: "Patch"
-url: /halifax/patch/
+url: /halifax/patch-robie-street/
 shop: fabric
 ---

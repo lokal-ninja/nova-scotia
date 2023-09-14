@@ -1,5 +1,5 @@
 ---
 title: "Bellissimo"
-url: /halifax/bellissimo/
+url: /halifax/bellissimo-bloomfield-street/
 shop: furniture
 ---

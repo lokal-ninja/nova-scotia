@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
-url: /halifax/sobeys/
+url: /halifax/sobeys-herring-cove-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pet Valu"
-url: /halifax/pet-valu/
+url: /halifax/pet-valu-dentith-road/
 shop: pet
 ---

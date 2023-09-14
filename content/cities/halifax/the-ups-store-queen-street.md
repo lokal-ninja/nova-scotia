@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
-url: /halifax/the-ups-store/
+url: /halifax/the-ups-store-queen-street/
 shop: copyshop
 ---

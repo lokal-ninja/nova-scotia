@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /dartmouth/staples/
+url: /dartmouth/staples-woodlawn-road/
 shop: office supplies
 ---
