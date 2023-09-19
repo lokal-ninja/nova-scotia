@@ -1,6 +1,6 @@
 ---
 title: North Sydney
 url: /north-sydney/
-latitude: 46.177
-longitude: -60.298
+latitude: 46.215
+longitude: -60.263
 ---
