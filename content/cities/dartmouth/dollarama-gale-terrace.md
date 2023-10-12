@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /dartmouth/dollarama-lamont-terrace/
+url: /dartmouth/dollarama-gale-terrace/
 shop: variety store
 ---
