@@ -1,5 +1,5 @@
 ---
 title: "Needs"
-url: /halifax/needs-windsor-street/
+url: /halifax/needs-duffus-street/
 shop: convenience
 ---
