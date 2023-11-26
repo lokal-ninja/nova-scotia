@@ -1,6 +1,6 @@
 ---
 title: Yarmouth
 url: /yarmouth/
-latitude: 43.828
+latitude: 43.836
 longitude: -66.121
 ---
