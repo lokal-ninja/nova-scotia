@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /new-glasgow/winners/
-shop: clothes
+shop: department store
 ---
