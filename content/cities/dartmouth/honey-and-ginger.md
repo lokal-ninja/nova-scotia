@@ -1,5 +1,5 @@
 ---
 title: "Honey & Ginger"
-url: /halifax/honey-and-ginger-baker-drive/
+url: /dartmouth/honey-and-ginger/
 shop: nutrition supplements
 ---
