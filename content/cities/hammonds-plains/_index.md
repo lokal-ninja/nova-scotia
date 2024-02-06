@@ -1,6 +1,6 @@
 ---
 title: Hammonds Plains
 url: /hammonds-plains/
-latitude: 44.725
-longitude: -63.736
+latitude: 44.735
+longitude: -63.792
 ---
