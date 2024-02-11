@@ -1,5 +1,5 @@
 ---
 title: "Robotnik.com"
-url: /halifax/robotnik-com/
+url: /beechville/robotnik-com/
 shop: computer
 ---

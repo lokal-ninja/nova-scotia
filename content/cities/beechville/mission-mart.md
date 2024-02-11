@@ -1,5 +1,5 @@
 ---
 title: "Mission Mart"
-url: /halifax/mission-mart/
+url: /beechville/mission-mart/
 shop: charity
 ---

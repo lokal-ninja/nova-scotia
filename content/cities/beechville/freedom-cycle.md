@@ -1,5 +1,5 @@
 ---
 title: "Freedom Cycle"
-url: /halifax/freedom-cycle/
+url: /beechville/freedom-cycle/
 shop: motorcycle
 ---

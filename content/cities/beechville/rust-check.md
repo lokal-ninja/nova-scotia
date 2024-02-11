@@ -1,5 +1,5 @@
 ---
 title: "Rust Check"
-url: /halifax/rust-check/
+url: /beechville/rust-check/
 shop: car repair
 ---

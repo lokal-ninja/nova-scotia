@@ -1,5 +1,5 @@
 ---
 title: "Union Foodmart"
-url: /halifax/union-foodmart/
+url: /beechville/union-foodmart/
 shop: supermarket
 ---

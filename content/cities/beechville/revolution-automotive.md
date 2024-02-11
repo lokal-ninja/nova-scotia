@@ -1,5 +1,5 @@
 ---
 title: "Revolution Automotive"
-url: /halifax/revolution-automotive/
+url: /beechville/revolution-automotive/
 shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canada Computers & Electronics"
-url: /halifax/canada-computers-and-electronics/
+url: /beechville/canada-computers-and-electronics/
 shop: electronics
 ---

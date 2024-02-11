@@ -1,5 +1,5 @@
 ---
 title: "Needs Convenience"
-url: /halifax/needs-convenience/
+url: /beechville/needs-convenience/
 shop: convenience
 ---

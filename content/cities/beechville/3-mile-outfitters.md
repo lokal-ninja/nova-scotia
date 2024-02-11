@@ -1,5 +1,5 @@
 ---
 title: "3 Mile Outfitters"
-url: /halifax/3-mile-outfitters/
+url: /beechville/3-mile-outfitters/
 shop: outdoor
 ---
