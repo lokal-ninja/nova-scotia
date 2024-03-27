@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
-url: /springhill/ultramar/
+url: /springhill-junction/ultramar/
 shop: convenience
 ---
