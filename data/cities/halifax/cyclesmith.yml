@@ -7,5 +7,5 @@ city: Halifax
 street: "Agricola Street"
 housenumber: 2553
 phone: "+1-902-425-1756"
-opening_hours: "Mo,Tu 10:00-18:00; We-Fr 10:00-21:00; Sa 09:00-17:00; Su off"
+opening_hours: "Mo-Fr 10:00-18:00; Su off"
 website: ""
