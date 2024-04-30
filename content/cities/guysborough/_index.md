@@ -1,6 +1,6 @@
 ---
 title: Guysborough
 url: /guysborough/
-latitude: 45.394
-longitude: -61.501
+latitude: 45.392
+longitude: -61.498
 ---
