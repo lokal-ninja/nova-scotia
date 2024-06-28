@@ -1,5 +1,5 @@
 ---
-title: "Wheatons"
+title: "Wheaton's"
 url: /dartmouth/wheatons/
 shop: houseware
 ---
