@@ -1,5 +1,5 @@
 ---
 title: "Cyclesmith"
 url: /halifax/cyclesmith/
-shop: bicycle
+shop: Fahrrad
 ---

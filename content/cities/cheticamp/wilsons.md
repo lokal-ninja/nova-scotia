@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /cheticamp/wilsons/
-shop: convenience
+shop: Lebensmittel
 ---

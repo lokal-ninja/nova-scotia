@@ -1,5 +1,5 @@
 ---
 title: "Moor Aquariums"
 url: /hebron/moor-aquariums/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lindt"
 url: /halifax/lindt/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bike Again"
 url: /halifax/bike-again/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Art"
 url: /halifax/art/
-shop: books
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /halifax/nslc-herring-cove-road/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairweather"
 url: /dartmouth/fairweather/
-shop: clothes
+shop: Kleidung
 ---

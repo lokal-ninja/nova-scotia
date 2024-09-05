@@ -1,5 +1,5 @@
 ---
 title: "Showcase"
 url: /dartmouth/showcase/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /dartmouth/circle-k-countryview-drive/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /halifax/giant/
-shop: bicycle
+shop: Fahrrad
 ---

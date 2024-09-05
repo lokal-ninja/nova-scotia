@@ -1,5 +1,5 @@
 ---
 title: "Eclipse"
 url: /dartmouth/eclipse/
-shop: clothes
+shop: Kleidung
 ---

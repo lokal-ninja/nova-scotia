@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /halifax/zara/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freshmart"
 url: /ingonish/freshmart/
-shop: supermarket
+shop: Supermarkt
 ---

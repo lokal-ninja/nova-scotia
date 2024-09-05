@@ -1,5 +1,5 @@
 ---
 title: "AFN"
 url: /greenfield/afn/
-shop: convenience
+shop: Lebensmittel
 ---

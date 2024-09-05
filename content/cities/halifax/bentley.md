@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /halifax/bentley/
-shop: bag
+shop: Taschen & Koffer
 ---

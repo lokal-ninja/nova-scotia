@@ -1,5 +1,5 @@
 ---
 title: "Mobilinq"
 url: /halifax/mobilinq/
-shop: shop
+shop: Allgemein
 ---

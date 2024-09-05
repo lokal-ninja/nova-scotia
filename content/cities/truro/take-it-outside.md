@@ -1,5 +1,5 @@
 ---
 title: "Take It Outside"
 url: /truro/take-it-outside/
-shop: clothes
+shop: Kleidung
 ---

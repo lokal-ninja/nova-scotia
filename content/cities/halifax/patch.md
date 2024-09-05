@@ -1,5 +1,5 @@
 ---
 title: "Patch"
 url: /halifax/patch/
-shop: sewing
+shop: Nähzubehör
 ---

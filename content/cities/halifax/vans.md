@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /halifax/vans/
-shop: shoes
+shop: Schuhe
 ---

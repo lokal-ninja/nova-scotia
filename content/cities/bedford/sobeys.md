@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /bedford/sobeys/
-shop: supermarket
+shop: Supermarkt
 ---

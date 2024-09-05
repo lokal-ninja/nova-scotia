@@ -1,5 +1,5 @@
 ---
 title: "Indi's Shoetique"
 url: /bedford/indis-shoetique/
-shop: shoes
+shop: Schuhe
 ---

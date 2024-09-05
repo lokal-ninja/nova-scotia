@@ -1,5 +1,5 @@
 ---
 title: "Superstore"
 url: /upper-tantallon/superstore/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /dartmouth/aeropostale/
-shop: clothes
+shop: Kleidung
 ---

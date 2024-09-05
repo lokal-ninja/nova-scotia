@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /truro/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

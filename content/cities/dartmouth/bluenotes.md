@@ -1,5 +1,5 @@
 ---
 title: "Bluenotes"
 url: /dartmouth/bluenotes/
-shop: clothes
+shop: Kleidung
 ---

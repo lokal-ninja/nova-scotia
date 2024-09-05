@@ -1,5 +1,5 @@
 ---
 title: "Garage"
 url: /halifax/garage/
-shop: clothes
+shop: Kleidung
 ---

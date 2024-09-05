@@ -1,5 +1,5 @@
 ---
 title: "Henry's"
 url: /dartmouth/henrys/
-shop: photo
+shop: Foto
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snaxx"
 url: /halifax/snaxx/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valley Tire"
 url: /bridgewater/valley-tire/
-shop: tyres
+shop: Reifen
 ---

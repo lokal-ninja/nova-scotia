@@ -1,5 +1,5 @@
 ---
 title: "Sievert's Limited"
 url: /halifax/sieverts-limited/
-shop: tobacco
+shop: Tabak
 ---

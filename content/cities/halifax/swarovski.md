@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /halifax/swarovski/
-shop: jewelry
+shop: Schmuck
 ---

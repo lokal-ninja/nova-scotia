@@ -1,5 +1,5 @@
 ---
 title: "Better Than Her"
 url: /halifax/better-than-her/
-shop: clothes
+shop: Kleidung
 ---

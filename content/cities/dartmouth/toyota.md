@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /dartmouth/toyota/
-shop: car
+shop: Autohaus
 ---

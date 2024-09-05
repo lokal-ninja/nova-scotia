@@ -1,5 +1,5 @@
 ---
 title: "Bulk Barn"
 url: /halifax/bulk-barn/
-shop: supermarket
+shop: Supermarkt
 ---

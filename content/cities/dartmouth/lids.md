@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /dartmouth/lids/
-shop: clothes
+shop: Kleidung
 ---

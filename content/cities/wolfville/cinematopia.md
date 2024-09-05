@@ -1,5 +1,5 @@
 ---
 title: "Cinematopia"
 url: /wolfville/cinematopia/
-shop: video
+shop: Videothek
 ---

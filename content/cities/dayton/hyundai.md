@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /dayton/hyundai/
-shop: car
+shop: Autohaus
 ---

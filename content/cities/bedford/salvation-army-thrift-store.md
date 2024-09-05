@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army Thrift Store"
 url: /bedford/salvation-army-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

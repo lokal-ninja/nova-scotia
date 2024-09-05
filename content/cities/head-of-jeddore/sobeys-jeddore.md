@@ -1,5 +1,5 @@
 ---
 title: "Sobeys Jeddore"
 url: /head-of-jeddore/sobeys-jeddore/
-shop: supermarket
+shop: Supermarkt
 ---

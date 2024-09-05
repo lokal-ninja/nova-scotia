@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /dartmouth/nslc/
-shop: alcohol
+shop: Spirituosen
 ---

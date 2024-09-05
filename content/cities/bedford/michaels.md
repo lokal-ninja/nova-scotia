@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bedford/michaels/
-shop: craft
+shop: Basteln
 ---

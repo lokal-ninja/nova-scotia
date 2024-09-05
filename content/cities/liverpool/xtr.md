@@ -1,5 +1,5 @@
 ---
 title: "XTR"
 url: /liverpool/xtr/
-shop: convenience
+shop: Lebensmittel
 ---

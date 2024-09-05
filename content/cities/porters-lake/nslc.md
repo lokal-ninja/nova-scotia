@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /porters-lake/nslc/
-shop: alcohol
+shop: Spirituosen
 ---

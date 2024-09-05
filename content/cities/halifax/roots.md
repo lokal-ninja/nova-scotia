@@ -1,5 +1,5 @@
 ---
 title: "Roots"
 url: /halifax/roots/
-shop: clothes
+shop: Kleidung
 ---

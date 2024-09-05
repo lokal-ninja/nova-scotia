@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /coldbrook/foodland/
-shop: supermarket
+shop: Supermarkt
 ---

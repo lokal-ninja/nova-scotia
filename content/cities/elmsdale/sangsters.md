@@ -1,5 +1,5 @@
 ---
 title: "Sangster's"
 url: /elmsdale/sangsters/
-shop: car parts
+shop: Autoteile
 ---

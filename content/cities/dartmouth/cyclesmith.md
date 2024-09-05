@@ -1,5 +1,5 @@
 ---
 title: "Cyclesmith"
 url: /dartmouth/cyclesmith/
-shop: bicycle
+shop: Fahrrad
 ---

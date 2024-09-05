@@ -1,5 +1,5 @@
 ---
 title: "Biscuit General Store"
 url: /halifax/biscuit-general-store/
-shop: clothes
+shop: Kleidung
 ---

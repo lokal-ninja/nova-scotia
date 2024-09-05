@@ -1,5 +1,5 @@
 ---
 title: "Wilsons"
 url: /sherbrooke/wilsons/
-shop: convenience
+shop: Lebensmittel
 ---

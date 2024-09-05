@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /stellarton/sobeys/
-shop: supermarket
+shop: Supermarkt
 ---

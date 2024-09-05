@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /halifax/hallmark/
-shop: gift
+shop: Andenken
 ---

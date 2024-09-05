@@ -1,5 +1,5 @@
 ---
 title: "Charm Diamond Centres"
 url: /dartmouth/charm-diamond-centres/
-shop: jewelry
+shop: Schmuck
 ---

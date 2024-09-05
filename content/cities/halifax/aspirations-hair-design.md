@@ -1,5 +1,5 @@
 ---
 title: "Aspirations Hair Design"
 url: /halifax/aspirations-hair-design/
-shop: hairdresser
+shop: Friseur
 ---

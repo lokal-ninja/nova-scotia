@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /dartmouth/bentley/
-shop: bag
+shop: Taschen & Koffer
 ---

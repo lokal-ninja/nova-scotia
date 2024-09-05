@@ -1,5 +1,5 @@
 ---
 title: "SILK"
 url: /halifax/silk/
-shop: laundry
+shop: Wäscherei
 ---
