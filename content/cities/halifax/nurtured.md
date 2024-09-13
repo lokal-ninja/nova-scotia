@@ -1,5 +1,5 @@
 ---
 title: "Nurtured"
 url: /halifax/nurtured/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Nails"
 url: /halifax/rainbow-nails/
-shop: Kosmetik
+shop: beauty
 ---

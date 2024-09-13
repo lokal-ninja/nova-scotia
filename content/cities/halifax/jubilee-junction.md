@@ -1,5 +1,5 @@
 ---
 title: "Jubilee Junction"
 url: /halifax/jubilee-junction/
-shop: Lebensmittel
+shop: convenience
 ---

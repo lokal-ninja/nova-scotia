@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /mabou/esso/
-shop: Lebensmittel
+shop: convenience
 ---

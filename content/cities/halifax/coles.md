@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /halifax/coles/
-shop: Bücher
+shop: books
 ---

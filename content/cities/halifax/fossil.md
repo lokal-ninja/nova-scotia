@@ -1,5 +1,5 @@
 ---
 title: "Fossil"
 url: /halifax/fossil/
-shop: Uhren
+shop: watches
 ---

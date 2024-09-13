@@ -1,5 +1,5 @@
 ---
 title: "Cell Smart"
 url: /bedford/cell-smart/
-shop: Handy
+shop: mobile phone
 ---

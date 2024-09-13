@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
 url: /halifax/levis/
-shop: Kleidung
+shop: clothes
 ---

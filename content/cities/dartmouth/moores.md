@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /dartmouth/moores/
-shop: Kleidung
+shop: clothes
 ---

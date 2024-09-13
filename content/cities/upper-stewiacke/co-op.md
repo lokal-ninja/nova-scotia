@@ -1,5 +1,5 @@
 ---
 title: "Co-op"
 url: /upper-stewiacke/co-op/
-shop: Supermarkt
+shop: supermarket
 ---

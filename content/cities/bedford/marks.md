@@ -1,5 +1,5 @@
 ---
 title: "Mark's"
 url: /bedford/marks/
-shop: Kleidung
+shop: clothes
 ---

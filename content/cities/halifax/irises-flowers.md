@@ -1,5 +1,5 @@
 ---
 title: "Irises Flowers"
 url: /halifax/irises-flowers/
-shop: Blumen
+shop: florist
 ---

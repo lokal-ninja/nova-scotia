@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /dartmouth/fido/
-shop: Handy
+shop: mobile phone
 ---

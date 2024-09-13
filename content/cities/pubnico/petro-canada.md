@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /pubnico/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

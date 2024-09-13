@@ -1,5 +1,5 @@
 ---
 title: "McBurney Pools and Spas"
 url: /dartmouth/mcburney-pools-and-spas/
-shop: Pool
+shop: swimming pool
 ---

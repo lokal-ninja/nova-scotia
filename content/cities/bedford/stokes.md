@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /bedford/stokes/
-shop: Haushaltsartikel
+shop: houseware
 ---

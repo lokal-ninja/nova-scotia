@@ -1,5 +1,5 @@
 ---
 title: "Vogue Optical"
 url: /halifax/vogue-optical-barrington-street/
-shop: Optiker
+shop: optician
 ---

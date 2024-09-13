@@ -1,5 +1,5 @@
 ---
 title: "Cellwaves"
 url: /dartmouth/cellwaves/
-shop: Handy
+shop: mobile phone
 ---

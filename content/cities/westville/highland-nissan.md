@@ -1,5 +1,5 @@
 ---
 title: "Highland Nissan"
 url: /westville/highland-nissan/
-shop: Autohaus
+shop: car
 ---

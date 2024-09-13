@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /halifax/hollister/
-shop: Kleidung
+shop: clothes
 ---

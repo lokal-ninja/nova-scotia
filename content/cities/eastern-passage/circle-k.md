@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /eastern-passage/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

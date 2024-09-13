@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Superstore"
 url: /halifax/atlantic-superstore-joseph-howe-drive/
-shop: Supermarkt
+shop: supermarket
 ---

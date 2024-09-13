@@ -1,5 +1,5 @@
 ---
 title: "Wheaton's"
 url: /dartmouth/wheatons/
-shop: Haushaltsartikel
+shop: houseware
 ---

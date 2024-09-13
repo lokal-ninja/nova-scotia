@@ -1,5 +1,5 @@
 ---
 title: "Princess Nails"
 url: /halifax/princess-nails/
-shop: Kosmetik
+shop: beauty
 ---

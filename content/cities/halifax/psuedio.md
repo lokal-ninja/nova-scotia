@@ -1,5 +1,5 @@
 ---
 title: "Psuedio"
 url: /halifax/psuedio/
-shop: Kleidung
+shop: clothes
 ---

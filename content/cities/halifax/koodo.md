@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /halifax/koodo/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pearl City"
 url: /halifax/pearl-city/
-shop: Schmuck
+shop: jewelry
 ---

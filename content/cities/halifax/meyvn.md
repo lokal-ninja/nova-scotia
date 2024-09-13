@@ -1,5 +1,5 @@
 ---
 title: "MEYVN"
 url: /halifax/meyvn/
-shop: Kleidung
+shop: clothes
 ---

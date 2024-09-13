@@ -1,5 +1,5 @@
 ---
 title: "Hammersmith Auto Service"
 url: /greenwood/hammersmith-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

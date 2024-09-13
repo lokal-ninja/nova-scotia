@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /dartmouth/bell/
-shop: Handy
+shop: mobile phone
 ---

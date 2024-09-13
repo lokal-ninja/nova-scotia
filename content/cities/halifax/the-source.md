@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /halifax/the-source/
-shop: Elektronik
+shop: electronics
 ---

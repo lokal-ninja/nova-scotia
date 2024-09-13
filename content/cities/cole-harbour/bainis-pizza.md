@@ -1,5 +1,5 @@
 ---
 title: "Baini's Pizza"
 url: /cole-harbour/bainis-pizza/
-shop: Lebensmittel
+shop: convenience
 ---

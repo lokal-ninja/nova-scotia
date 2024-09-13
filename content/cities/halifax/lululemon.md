@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /halifax/lululemon/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eastlink"
 url: /dartmouth/eastlink/
-shop: Handy
+shop: mobile phone
 ---

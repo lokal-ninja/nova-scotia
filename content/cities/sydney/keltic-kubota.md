@@ -1,5 +1,5 @@
 ---
 title: "Keltic Kubota"
 url: /sydney/keltic-kubota/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

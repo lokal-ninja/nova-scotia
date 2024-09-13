@@ -1,5 +1,5 @@
 ---
 title: "Running Room"
 url: /bedford/running-room/
-shop: Sport
+shop: sports
 ---

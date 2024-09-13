@@ -1,5 +1,5 @@
 ---
 title: "Toxic Blossom"
 url: /halifax/toxic-blossom/
-shop: Kleidung
+shop: clothes
 ---

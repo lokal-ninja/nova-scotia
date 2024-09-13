@@ -1,5 +1,5 @@
 ---
 title: "Brewery Barber"
 url: /halifax/brewery-barber/
-shop: Kosmetik
+shop: beauty
 ---

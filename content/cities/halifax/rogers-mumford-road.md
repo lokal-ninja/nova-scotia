@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /halifax/rogers-mumford-road/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trip Central"
 url: /dartmouth/trip-central/
-shop: Reisebüro
+shop: travel agency
 ---

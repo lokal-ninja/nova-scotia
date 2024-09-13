@@ -1,5 +1,5 @@
 ---
 title: "Bellissimo"
 url: /halifax/bellissimo/
-shop: Haushaltsartikel
+shop: houseware
 ---

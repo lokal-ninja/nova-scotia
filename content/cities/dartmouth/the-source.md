@@ -1,5 +1,5 @@
 ---
 title: "The Source"
 url: /dartmouth/the-source/
-shop: Elektronik
+shop: electronics
 ---

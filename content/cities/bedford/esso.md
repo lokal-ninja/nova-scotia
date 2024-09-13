@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /bedford/esso/
-shop: Lebensmittel
+shop: convenience
 ---

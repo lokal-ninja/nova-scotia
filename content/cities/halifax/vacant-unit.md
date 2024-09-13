@@ -1,5 +1,5 @@
 ---
 title: "Vacant Unit"
 url: /halifax/vacant-unit/
-shop: Leerstehend
+shop: vacant
 ---

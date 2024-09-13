@@ -1,5 +1,5 @@
 ---
 title: "Kingspier Curated Collections"
 url: /halifax/kingspier-curated-collections/
-shop: Kleidung
+shop: clothes
 ---

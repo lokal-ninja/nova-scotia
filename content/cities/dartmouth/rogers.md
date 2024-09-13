@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /dartmouth/rogers/
-shop: Handy
+shop: mobile phone
 ---

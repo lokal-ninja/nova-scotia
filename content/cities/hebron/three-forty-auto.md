@@ -1,5 +1,5 @@
 ---
 title: "Three Forty Auto"
 url: /hebron/three-forty-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

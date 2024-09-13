@@ -1,5 +1,5 @@
 ---
 title: "Soft Moc"
 url: /dartmouth/soft-moc/
-shop: Schuhe
+shop: shoes
 ---

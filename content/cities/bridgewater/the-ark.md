@@ -1,5 +1,5 @@
 ---
 title: "The Ark"
 url: /bridgewater/the-ark/
-shop: Gebrauchtwaren
+shop: charity
 ---

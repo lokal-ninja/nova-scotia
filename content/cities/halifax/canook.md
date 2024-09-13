@@ -1,5 +1,5 @@
 ---
 title: "Canook"
 url: /halifax/canook/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mainline Needle Exchange"
 url: /halifax/mainline-needle-exchange/
-shop: Sanitätshaus
+shop: medical supply
 ---

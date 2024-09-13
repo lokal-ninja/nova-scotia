@@ -1,5 +1,5 @@
 ---
 title: "Massage Experts"
 url: /greenwood/massage-experts/
-shop: Massage
+shop: massage
 ---

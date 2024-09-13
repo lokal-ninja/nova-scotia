@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /upper-musquodoboit/irving/
-shop: Lebensmittel
+shop: convenience
 ---

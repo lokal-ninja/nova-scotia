@@ -1,5 +1,5 @@
 ---
 title: "902 Self Storage"
 url: /lawrencetown/902-self-storage/
-shop: Mieten
+shop: storage rental
 ---

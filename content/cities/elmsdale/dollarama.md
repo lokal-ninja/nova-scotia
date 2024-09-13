@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /elmsdale/dollarama/
-shop: Kramladen
+shop: variety store
 ---

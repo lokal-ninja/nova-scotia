@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /bridgewater/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

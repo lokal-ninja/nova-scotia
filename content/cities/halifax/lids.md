@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /halifax/lids/
-shop: Kleidung
+shop: clothes
 ---

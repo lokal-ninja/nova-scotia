@@ -1,5 +1,5 @@
 ---
 title: "Heritage Memorials"
 url: /bedford/heritage-memorials/
-shop: Bestattungen
+shop: funeral directors
 ---

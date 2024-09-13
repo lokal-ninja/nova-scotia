@@ -1,5 +1,5 @@
 ---
 title: "Organic Earth Market"
 url: /halifax/organic-earth-market/
-shop: Supermarkt
+shop: supermarket
 ---

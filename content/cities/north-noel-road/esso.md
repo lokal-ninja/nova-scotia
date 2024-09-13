@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /north-noel-road/esso/
-shop: Lebensmittel
+shop: convenience
 ---

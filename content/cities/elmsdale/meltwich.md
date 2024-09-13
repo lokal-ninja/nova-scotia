@@ -1,5 +1,5 @@
 ---
 title: "Meltwich"
 url: /elmsdale/meltwich/
-shop: Leerstehend
+shop: vacant
 ---

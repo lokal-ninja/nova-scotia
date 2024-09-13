@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /bedford/tesla/
-shop: Autohaus
+shop: car
 ---

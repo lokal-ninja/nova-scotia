@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /halifax/sobeys-lacewood-drive/
-shop: Supermarkt
+shop: supermarket
 ---

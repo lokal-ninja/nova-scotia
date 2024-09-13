@@ -1,5 +1,5 @@
 ---
 title: "Twiggz"
 url: /dartmouth/twiggz/
-shop: Kleidung
+shop: clothes
 ---

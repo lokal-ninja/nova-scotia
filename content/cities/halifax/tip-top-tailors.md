@@ -1,5 +1,5 @@
 ---
 title: "Tip Top Tailors"
 url: /halifax/tip-top-tailors/
-shop: Schneiderei
+shop: tailor
 ---

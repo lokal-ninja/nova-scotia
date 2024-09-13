@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /halifax/penningtons/
-shop: Kleidung
+shop: clothes
 ---

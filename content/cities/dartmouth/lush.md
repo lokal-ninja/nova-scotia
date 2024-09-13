@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /dartmouth/lush/
-shop: Kosmetik
+shop: beauty
 ---

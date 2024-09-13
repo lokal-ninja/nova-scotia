@@ -1,5 +1,5 @@
 ---
 title: "Crazy Daisy"
 url: /guysborough/crazy-daisy/
-shop: Blumen
+shop: florist
 ---

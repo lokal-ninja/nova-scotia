@@ -1,5 +1,5 @@
 ---
 title: "Swee Tea House"
 url: /halifax/swee-tea-house/
-shop: Tee
+shop: tea
 ---

@@ -1,5 +1,5 @@
 ---
 title: "XTR"
 url: /glooscap-fn/xtr/
-shop: Lebensmittel
+shop: convenience
 ---

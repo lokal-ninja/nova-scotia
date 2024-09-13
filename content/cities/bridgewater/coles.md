@@ -1,5 +1,5 @@
 ---
 title: "Coles"
 url: /bridgewater/coles/
-shop: Bücher
+shop: books
 ---

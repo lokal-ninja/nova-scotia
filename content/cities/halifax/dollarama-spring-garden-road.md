@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /halifax/dollarama-spring-garden-road/
-shop: Kramladen
+shop: variety store
 ---

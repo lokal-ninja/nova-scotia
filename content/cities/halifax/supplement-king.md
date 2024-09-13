@@ -1,5 +1,5 @@
 ---
 title: "Supplement King"
 url: /halifax/supplement-king/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

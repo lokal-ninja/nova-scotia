@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /bridgewater/dollarama/
-shop: Kramladen
+shop: variety store
 ---

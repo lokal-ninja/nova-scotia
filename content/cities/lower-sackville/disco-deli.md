@@ -1,5 +1,5 @@
 ---
 title: "Disco Deli"
 url: /lower-sackville/disco-deli/
-shop: Lebensmittel
+shop: convenience
 ---

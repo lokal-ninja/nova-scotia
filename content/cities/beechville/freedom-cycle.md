@@ -1,5 +1,5 @@
 ---
 title: "Freedom Cycle"
 url: /beechville/freedom-cycle/
-shop: Motorrad
+shop: motorcycle
 ---

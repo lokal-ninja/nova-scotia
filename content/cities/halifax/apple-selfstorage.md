@@ -1,5 +1,5 @@
 ---
 title: "Apple SelfStorage"
 url: /halifax/apple-selfstorage/
-shop: Mieten
+shop: storage rental
 ---

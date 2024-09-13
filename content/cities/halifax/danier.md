@@ -1,5 +1,5 @@
 ---
 title: "Danier"
 url: /halifax/danier/
-shop: Kleidung
+shop: clothes
 ---

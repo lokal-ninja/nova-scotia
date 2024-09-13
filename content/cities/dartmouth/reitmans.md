@@ -1,5 +1,5 @@
 ---
 title: "Reitmans"
 url: /dartmouth/reitmans/
-shop: Kleidung
+shop: clothes
 ---

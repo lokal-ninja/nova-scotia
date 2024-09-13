@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /halifax/telus/
-shop: Handy
+shop: mobile phone
 ---

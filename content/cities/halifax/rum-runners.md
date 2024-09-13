@@ -1,5 +1,5 @@
 ---
 title: "RUM RUNNERS"
 url: /halifax/rum-runners/
-shop: Bäckerei
+shop: bakery
 ---

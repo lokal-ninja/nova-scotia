@@ -1,5 +1,5 @@
 ---
 title: "Doctor Piano"
 url: /bedford/doctor-piano/
-shop: Instrumente
+shop: musical instrument
 ---

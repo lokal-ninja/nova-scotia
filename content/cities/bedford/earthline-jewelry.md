@@ -1,5 +1,5 @@
 ---
 title: "Earthline Jewelry"
 url: /bedford/earthline-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

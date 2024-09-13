@@ -1,5 +1,5 @@
 ---
 title: "Ecko Unltd"
 url: /dartmouth/ecko-unltd/
-shop: Kleidung
+shop: clothes
 ---

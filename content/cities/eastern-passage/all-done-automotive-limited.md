@@ -1,5 +1,5 @@
 ---
 title: "All Done Automotive Limited"
 url: /eastern-passage/all-done-automotive-limited/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sobeys"
 url: /bridgewater/sobeys/
-shop: Supermarkt
+shop: supermarket
 ---

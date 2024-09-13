@@ -1,5 +1,5 @@
 ---
 title: "Laura Secord"
 url: /halifax/laura-secord/
-shop: Schokolade
+shop: chocolate
 ---

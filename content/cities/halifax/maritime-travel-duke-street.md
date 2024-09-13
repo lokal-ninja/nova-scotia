@@ -1,5 +1,5 @@
 ---
 title: "Maritime Travel"
 url: /halifax/maritime-travel-duke-street/
-shop: Reisebüro
+shop: travel agency
 ---

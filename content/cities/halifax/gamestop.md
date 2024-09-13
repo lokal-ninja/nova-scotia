@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /halifax/gamestop/
-shop: Videospiele
+shop: video games
 ---

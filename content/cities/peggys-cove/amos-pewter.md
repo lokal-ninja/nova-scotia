@@ -1,5 +1,5 @@
 ---
 title: "Amos Pewter"
 url: /peggys-cove/amos-pewter/
-shop: Andenken
+shop: gift
 ---

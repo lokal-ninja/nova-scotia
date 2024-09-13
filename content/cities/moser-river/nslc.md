@@ -1,5 +1,5 @@
 ---
 title: "NSLC"
 url: /moser-river/nslc/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spencer's"
 url: /halifax/spencers/
-shop: Andenken
+shop: gift
 ---

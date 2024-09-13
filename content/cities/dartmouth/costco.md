@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /dartmouth/costco/
-shop: Großhandel
+shop: wholesale
 ---

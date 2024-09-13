@@ -1,5 +1,5 @@
 ---
 title: "Granville Ferry Market"
 url: /granville-ferry/granville-ferry-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /lower-sackville/ultramar-cobequid-road/
-shop: Lebensmittel
+shop: convenience
 ---

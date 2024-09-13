@@ -1,5 +1,5 @@
 ---
 title: "XTR"
 url: /guysborough/xtr/
-shop: Lebensmittel
+shop: convenience
 ---

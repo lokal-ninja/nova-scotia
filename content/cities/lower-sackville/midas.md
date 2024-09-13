@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /lower-sackville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

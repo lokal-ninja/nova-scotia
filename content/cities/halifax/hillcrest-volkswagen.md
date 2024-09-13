@@ -1,5 +1,5 @@
 ---
 title: "Hillcrest Volkswagen"
 url: /halifax/hillcrest-volkswagen/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brain Candy Toys"
 url: /bedford/brain-candy-toys/
-shop: Spielzeug
+shop: toys
 ---

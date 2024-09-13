@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /yarmouth/honda/
-shop: Autohaus
+shop: car
 ---

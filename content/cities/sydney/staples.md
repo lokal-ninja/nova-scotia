@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /sydney/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

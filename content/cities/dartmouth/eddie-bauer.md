@@ -1,5 +1,5 @@
 ---
 title: "Eddie Bauer"
 url: /dartmouth/eddie-bauer/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cole-harbour/walmart/
-shop: Warenhaus
+shop: department store
 ---
