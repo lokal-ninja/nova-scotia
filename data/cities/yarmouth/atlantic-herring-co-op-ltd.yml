@@ -1,11 +1,11 @@
 id: 746819058
-type: way
+type: node
 latitude: 43.83462
 longitude: -66.12112
 postcode: ""
 city: Yarmouth
-street: "Hawthorne Street"
-housenumber: 32
+street: Hawthorne Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

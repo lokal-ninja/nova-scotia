@@ -1,11 +1,11 @@
 id: 71623437
-type: way
+type: node
 latitude: 44.72338
 longitude: -63.70914
-postcode: "B4B 1G7"
+postcode: B4B 1G7
 city: Bedford
-street: "Bluewater Road"
-housenumber: 90
+street: Bluewater Road
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su off"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su off
 website: ""

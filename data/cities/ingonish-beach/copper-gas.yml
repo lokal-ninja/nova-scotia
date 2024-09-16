@@ -1,11 +1,11 @@
 id: 547336695
-type: way
+type: node
 latitude: 46.64271
 longitude: -60.40437
-postcode: "B0C 1L0"
+postcode: B0C 1L0
 city: Ingonish Beach
-street: "Cabot Trail"
-housenumber: 37718
+street: Cabot Trail
+housenumber: "37718"
 phone: ""
-opening_hours: "08:00-21:00 summer; 08:00-19:00 off season"
-website: "http://www.capergas.ca/ingonish.html"
+opening_hours: 08:00-21:00 "summer"; 08:00-19:00 "off season"
+website: http://www.capergas.ca/ingonish.html

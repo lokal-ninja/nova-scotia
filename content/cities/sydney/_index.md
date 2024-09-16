@@ -1,6 +1,6 @@
 ---
 title: Sydney
 url: /sydney/
-latitude: 46.143
-longitude: -60.178
+latitude: 46.14
+longitude: -60.193
 ---

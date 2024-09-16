@@ -1,11 +1,11 @@
 id: 505957110
-type: way
+type: node
 latitude: 45.36394
 longitude: -63.2677
-postcode: "B2N 1J1"
+postcode: B2N 1J1
 city: Truro
-street: "Prince Street"
-housenumber: 1072
-phone: "+1-902-893-2225"
+street: Prince Street
+housenumber: "1072"
+phone: +1-902-893-2225
 opening_hours: ""
 website: ""

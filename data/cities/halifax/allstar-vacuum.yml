@@ -1,11 +1,11 @@
 id: 460766256
-type: way
+type: node
 latitude: 44.65498
 longitude: -63.60987
-postcode: "B3L 2A8"
+postcode: B3L 2A8
 city: Halifax
-street: "Bayers Road"
-housenumber: 6380
+street: Bayers Road
+housenumber: "6380"
 phone: ""
 opening_hours: ""
-website: "http://www.allstarvacuum.ca/"
+website: http://www.allstarvacuum.ca/

@@ -1,11 +1,11 @@
 id: 362974142
-type: way
+type: node
 latitude: 44.65645
 longitude: -63.67265
-postcode: "B3S 1L8"
+postcode: B3S 1L8
 city: Halifax
-street: "Lacewood Drive"
-housenumber: 368
+street: Lacewood Drive
+housenumber: "368"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-20:00
 website: ""

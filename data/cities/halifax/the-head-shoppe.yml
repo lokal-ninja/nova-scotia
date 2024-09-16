@@ -4,8 +4,8 @@ latitude: 44.65052
 longitude: -63.57637
 postcode: ""
 city: Halifax
-street: "Duke Street"
-housenumber: 5201
-phone: "+1-902-423-7104"
+street: Duke Street
+housenumber: "5201"
+phone: +1-902-423-7104
 opening_hours: ""
-website: "https://www.headshoppe.ca/"
+website: https://www.headshoppe.ca/

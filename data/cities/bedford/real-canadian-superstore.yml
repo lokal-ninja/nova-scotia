@@ -1,11 +1,11 @@
 id: 876351393
-type: way
+type: node
 latitude: 44.69719
 longitude: -63.69151
 postcode: ""
 city: Bedford
-street: "Hogan Court"
-housenumber: 40
+street: Hogan Court
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

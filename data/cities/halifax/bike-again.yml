@@ -1,11 +1,11 @@
 id: 462422010
-type: way
+type: node
 latitude: 44.65473
 longitude: -63.59119
-postcode: "B3K 1K4"
+postcode: B3K 1K4
 city: Halifax
-street: "Charles Street"
-housenumber: 5664
-phone: "+1-902-429-2202"
-opening_hours: "We 18:00-21:00; Th 18:00-21:00"
-website: "https://ecologyaction.ca/our-work/transportation/bike-again"
+street: Charles Street
+housenumber: "5664"
+phone: +1-902-429-2202
+opening_hours: We 18:00-21:00; Th 18:00-21:00
+website: https://ecologyaction.ca/our-work/transportation/bike-again

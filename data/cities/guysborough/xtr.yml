@@ -1,11 +1,11 @@
 id: 547711891
-type: way
+type: node
 latitude: 45.38466
 longitude: -61.50465
-postcode: "B0H 1N0"
+postcode: B0H 1N0
 city: Guysborough
-street: "Highway 16"
-housenumber: 10016
-phone: "+1-902-533-2993"
+street: Highway 16
+housenumber: "10016"
+phone: +1-902-533-2993
 opening_hours: ""
 website: ""

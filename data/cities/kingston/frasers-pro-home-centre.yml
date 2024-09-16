@@ -2,10 +2,10 @@ id: 1163578858
 type: node
 latitude: 44.98734
 longitude: -64.94826
-postcode: "B0P 1R0"
+postcode: B0P 1R0
 city: Kingston
-street: "Bridge Street"
-housenumber: 1540
-phone: "+1 902-765-3111"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-17:00"
-website: "https://www.frasers.ca"
+street: Bridge Street
+housenumber: "1540"
+phone: +1 902-765-3111
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-17:00
+website: https://www.frasers.ca

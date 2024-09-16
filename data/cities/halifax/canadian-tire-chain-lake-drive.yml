@@ -1,11 +1,11 @@
 id: 171149718
-type: way
+type: node
 latitude: 44.65048
 longitude: -63.67286
-postcode: "B3S 1C5"
+postcode: B3S 1C5
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 194
-phone: "+1-902-457-1001"
+street: Chain Lake Drive
+housenumber: "194"
+phone: +1-902-457-1001
 opening_hours: ""
-website: "https://www.canadiantire.ca/en/store-locator/ns/halifax-bayers-lake-ns.mystore.html"
+website: https://www.canadiantire.ca/en/store-locator/ns/halifax-bayers-lake-ns.mystore.html

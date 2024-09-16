@@ -1,11 +1,11 @@
 id: 181683761
-type: way
+type: node
 latitude: 44.65319
 longitude: -63.5999
-postcode: "B3K 5C7"
+postcode: B3K 5C7
 city: Halifax
-street: "Windsor Street"
-housenumber: 2651
+street: Windsor Street
+housenumber: "2651"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-21:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 452572317
-type: way
+type: node
 latitude: 44.66095
 longitude: -63.60272
-postcode: "B3K 5L8"
+postcode: B3K 5L8
 city: Halifax
-street: "Kane Street"
-housenumber: 5860
-phone: "+1 902-454-7456"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "www.halifaxseed.ca"
+street: Kane Street
+housenumber: "5860"
+phone: +1 902-454-7456
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: www.halifaxseed.ca

@@ -1,11 +1,11 @@
 id: 632559234
-type: way
+type: node
 latitude: 46.20074
 longitude: -59.98492
-postcode: "b1a4z6"
+postcode: b1a4z6
 city: Glace Bay
-street: "Main Street"
-housenumber: 1093
+street: Main Street
+housenumber: "1093"
 phone: ""
 opening_hours: ""
 website: ""

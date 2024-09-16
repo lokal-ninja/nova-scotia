@@ -1,11 +1,11 @@
 id: 548451273
-type: way
+type: node
 latitude: 45.08531
 longitude: -63.45415
-postcode: "B0N 2H0"
+postcode: B0N 2H0
 city: Micmac
-street: "Robinson Road"
-housenumber: 224
-phone: "+1-902-758-4236"
+street: Robinson Road
+housenumber: "224"
+phone: +1-902-758-4236
 opening_hours: ""
 website: ""

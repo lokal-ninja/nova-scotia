@@ -1,11 +1,11 @@
 id: 524684504
-type: way
+type: node
 latitude: 44.70924
 longitude: -63.55813
-postcode: "B3B 0M5"
+postcode: B3B 0M5
 city: Dartmouth
-street: "Cabela Road"
-housenumber: 50
-phone: "+1 902-417-1800"
+street: Cabela Road
+housenumber: "50"
+phone: +1 902-417-1800
 opening_hours: ""
-website: "https://www.cabelas.ca/find-a-store/dartmouth/34"
+website: https://www.cabelas.ca/find-a-store/dartmouth/34

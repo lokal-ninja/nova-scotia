@@ -1,11 +1,11 @@
 id: 890969236
-type: way
+type: node
 latitude: 43.76684
 longitude: -65.31012
 postcode: ""
 city: Shelburne
-street: "King Street"
-housenumber: 115
+street: King Street
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

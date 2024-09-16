@@ -1,11 +1,11 @@
 id: 980660704
-type: way
+type: node
 latitude: 45.87693
 longitude: -61.49112
 postcode: ""
 city: Judique
-street: "Highway 19"
-housenumber: 5447
+street: Highway 19
+housenumber: "5447"
 phone: ""
 opening_hours: ""
 website: ""

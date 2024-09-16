@@ -1,11 +1,11 @@
 id: 460361897
-type: way
+type: node
 latitude: 44.74333
 longitude: -63.38192
-postcode: "B3E 1C4"
+postcode: B3E 1C4
 city: Lake Echo
-street: "Sneezy Avenue"
-housenumber: 1
-phone: "+1-902-880-6281"
-opening_hours: "By Appointment"
-website: "http://www.kimberleyannesboutique.com/"
+street: Sneezy Avenue
+housenumber: "1"
+phone: +1-902-880-6281
+opening_hours: '"By Appointment"'
+website: http://www.kimberleyannesboutique.com/

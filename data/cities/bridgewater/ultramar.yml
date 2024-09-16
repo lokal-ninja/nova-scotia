@@ -1,11 +1,11 @@
 id: 548010317
-type: way
+type: node
 latitude: 44.3152
 longitude: -64.56534
-postcode: "B4V 2W3"
+postcode: B4V 2W3
 city: Bridgewater
-street: "Highway 103"
-housenumber: 16280
-phone: "+1 902-543-1575"
+street: Highway 103
+housenumber: "16280"
+phone: +1 902-543-1575
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 362974141
-type: way
+type: node
 latitude: 44.65754
 longitude: -63.67529
 postcode: ""
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 230
+street: Chain Lake Drive
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/halifax-ns-519.html"
+website: https://www.costco.ca/warehouse-locations/halifax-ns-519.html

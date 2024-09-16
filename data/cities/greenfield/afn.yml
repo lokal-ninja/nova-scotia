@@ -1,11 +1,11 @@
 id: 547967432
-type: way
+type: node
 latitude: 44.26826
 longitude: -64.84341
-postcode: "B0T 1E0"
+postcode: B0T 1E0
 city: Greenfield
-street: "Highway 210"
-housenumber: 5163
-phone: "+1-902-685-2306"
+street: Highway 210
+housenumber: "5163"
+phone: +1-902-685-2306
 opening_hours: ""
 website: ""

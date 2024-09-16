@@ -1,11 +1,11 @@
 id: 548009485
-type: way
+type: node
 latitude: 44.55439
 longitude: -64.32603
-postcode: "B0J 1K0"
+postcode: B0J 1K0
 city: Chester Basin
-street: "Beech Hill Road"
-housenumber: 35
-phone: "+1 902-627-1265"
+street: Beech Hill Road
+housenumber: "35"
+phone: +1 902-627-1265
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1268232347
-type: way
+type: node
 latitude: 44.64869
 longitude: -63.61846
 postcode: ""
 city: Halifax
-street: "Mumford Road"
-housenumber: 7001
-phone: "+1 902-454-0649"
-opening_hours: "Mo-Sa 09:30-21:00; Su 12:00-17:00"
-website: "https://stores.footlocker.ca/en/ns/halifax/7001-mumford-road-99166.html"
+street: Mumford Road
+housenumber: "7001"
+phone: +1 902-454-0649
+opening_hours: Mo-Sa 09:30-21:00; Su 12:00-17:00
+website: https://stores.footlocker.ca/en/ns/halifax/7001-mumford-road-99166.html

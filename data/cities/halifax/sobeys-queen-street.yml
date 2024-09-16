@@ -1,11 +1,11 @@
 id: 82790375
-type: way
+type: node
 latitude: 44.63698
 longitude: -63.57478
 postcode: ""
 city: Halifax
-street: "Queen Street"
-housenumber: 1120
+street: Queen Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

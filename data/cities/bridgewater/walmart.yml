@@ -1,11 +1,11 @@
 id: 377712773
-type: way
+type: node
 latitude: 44.40193
 longitude: -64.53343
-postcode: "B4V 4H2"
+postcode: B4V 4H2
 city: Bridgewater
-street: "Pine Grove Road"
-housenumber: 60
-phone: "+1 902 543 8680"
-opening_hours: "07:00-22:00"
-website: "https://www.walmart.ca/en/stores-near-me/bridgewater-ns-1003"
+street: Pine Grove Road
+housenumber: "60"
+phone: +1 902 543 8680
+opening_hours: 07:00-22:00
+website: https://www.walmart.ca/en/stores-near-me/bridgewater-ns-1003

@@ -1,11 +1,11 @@
 id: 255677010
-type: way
+type: node
 latitude: 44.74538
 longitude: -65.51527
-postcode: "B0S 1A0"
+postcode: B0S 1A0
 city: Annapolis Royal
-street: "Prince Albert Road"
-housenumber: 121
+street: Prince Albert Road
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

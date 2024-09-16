@@ -1,11 +1,11 @@
 id: 362974146
-type: way
+type: node
 latitude: 44.65469
 longitude: -63.67418
 postcode: ""
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 220
+street: Chain Lake Drive
+housenumber: "220"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/halifax-nova-scotia-3138"
+website: https://www.walmart.ca/en/stores-near-me/halifax-nova-scotia-3138

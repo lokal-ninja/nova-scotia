@@ -1,11 +1,11 @@
 id: 548440825
-type: way
+type: node
 latitude: 45.65293
 longitude: -62.85605
-postcode: "B0K 1R0"
+postcode: B0K 1R0
 city: Scotsburn
-street: "Scotsburn Road"
-housenumber: 4120
-phone: "+1-902-485-6613"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Scotsburn Road
+housenumber: "4120"
+phone: +1-902-485-6613
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

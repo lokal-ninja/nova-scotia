@@ -1,11 +1,11 @@
 id: 366167044
-type: way
+type: node
 latitude: 44.66384
 longitude: -63.63526
-postcode: "B3M 2J2"
+postcode: B3M 2J2
 city: Halifax
-street: "Bedford Highway"
-housenumber: 44
+street: Bedford Highway
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

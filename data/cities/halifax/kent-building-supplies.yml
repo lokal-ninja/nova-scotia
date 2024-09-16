@@ -1,11 +1,11 @@
 id: 120746667
-type: way
+type: node
 latitude: 44.65429
 longitude: -63.6794
 postcode: ""
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 225
+street: Chain Lake Drive
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 173999388
-type: way
+type: node
 latitude: 44.63862
 longitude: -63.66794
 postcode: ""
 city: Beechville
-street: "Crane Lake Drive"
-housenumber: 57
+street: Crane Lake Drive
+housenumber: "57"
 phone: ""
 opening_hours: ""
-website: "https://halifaxrustcheck.ca/"
+website: https://halifaxrustcheck.ca/

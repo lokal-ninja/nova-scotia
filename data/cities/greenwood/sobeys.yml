@@ -1,11 +1,11 @@
 id: 130351887
-type: way
+type: node
 latitude: 44.96769
 longitude: -64.93919
-postcode: "B0P 1N0"
+postcode: B0P 1N0
 city: Greenwood
-street: "Central Avenue"
-housenumber: 720
-phone: "+1 902-765-4033"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-20:00"
-website: "https://www.sobeys.com/stores/sobeys-greenwood/"
+street: Central Avenue
+housenumber: "720"
+phone: +1 902-765-4033
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-20:00
+website: https://www.sobeys.com/stores/sobeys-greenwood/

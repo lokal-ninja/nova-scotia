@@ -1,11 +1,11 @@
 id: 821532570
-type: way
+type: node
 latitude: 45.59397
 longitude: -61.74096
 postcode: ""
 city: Afton
-street: "Bayside Road"
-housenumber: 86
+street: Bayside Road
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

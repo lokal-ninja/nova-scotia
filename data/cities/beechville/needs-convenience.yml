@@ -1,11 +1,11 @@
 id: 627825137
-type: way
+type: node
 latitude: 44.64642
 longitude: -63.6744
 postcode: ""
 city: Beechville
-street: "Chain Lake Drive"
-housenumber: 185
+street: Chain Lake Drive
+housenumber: "185"
 phone: ""
 opening_hours: ""
 website: ""

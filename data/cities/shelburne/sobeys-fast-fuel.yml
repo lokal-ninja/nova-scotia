@@ -1,11 +1,11 @@
 id: 547951662
-type: way
+type: node
 latitude: 43.77838
 longitude: -65.33836
-postcode: "B0T 1W0"
+postcode: B0T 1W0
 city: Shelburne
-street: "Ohio Road"
-housenumber: 90
-phone: "+1-902-543-2816"
+street: Ohio Road
+housenumber: "90"
+phone: +1-902-543-2816
 opening_hours: ""
 website: ""

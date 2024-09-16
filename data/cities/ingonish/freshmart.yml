@@ -1,11 +1,11 @@
 id: 375989712
-type: way
+type: node
 latitude: 46.68995
 longitude: -60.38885
-postcode: "B0C 1K0"
+postcode: B0C 1K0
 city: Ingonish
-street: "Cabot Trail"
-housenumber: 36346
+street: Cabot Trail
+housenumber: "36346"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.pcplus.ca/loyalty_store_details_landing.jsp?storeId=4300106"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.pcplus.ca/loyalty_store_details_landing.jsp?storeId=4300106

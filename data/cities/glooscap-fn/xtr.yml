@@ -1,11 +1,11 @@
 id: 548345685
-type: way
+type: node
 latitude: 45.0435
 longitude: -64.22878
-postcode: "B0P 1P0"
+postcode: B0P 1P0
 city: Glooscap FN
-street: "Smith Road"
-housenumber: 92
-phone: "+1-902-684-0007"
+street: Smith Road
+housenumber: "92"
+phone: +1-902-684-0007
 opening_hours: ""
 website: ""

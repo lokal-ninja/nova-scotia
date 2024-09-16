@@ -1,11 +1,11 @@
 id: 281970697
-type: way
+type: node
 latitude: 45.09156
 longitude: -64.36289
-postcode: "B4P 1E2"
+postcode: B4P 1E2
 city: Wolfville
-street: "Main Street"
-housenumber: 452
+street: Main Street
+housenumber: "452"
 phone: ""
 opening_hours: ""
 website: ""

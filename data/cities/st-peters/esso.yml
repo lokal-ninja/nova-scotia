@@ -1,11 +1,11 @@
 id: 547671878
-type: way
+type: node
 latitude: 45.68298
 longitude: -60.76682
-postcode: "B0E 3B0"
+postcode: B0E 3B0
 city: St Peter's
-street: "Highway 4"
-housenumber: 12012
-phone: "+1-902-535-3976"
+street: Highway 4
+housenumber: "12012"
+phone: +1-902-535-3976
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-stpeters-ns-esso-200303236"
+website: https://www.esso.ca/en-ca/find-station/esso-stpeters-ns-esso-200303236

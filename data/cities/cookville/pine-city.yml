@@ -1,11 +1,11 @@
 id: 973416037
-type: way
+type: node
 latitude: 44.3937
 longitude: -64.52935
-postcode: "B4V 2P1"
+postcode: B4V 2P1
 city: Cookville
-street: "MacCulloch Road"
-housenumber: 21
-phone: "+1-902-543-8844"
-opening_hours: "Mo off; Tu-Sa 09:30-17:00; Su off"
+street: MacCulloch Road
+housenumber: "21"
+phone: +1-902-543-8844
+opening_hours: Mo off; Tu-Sa 09:30-17:00; Su off
 website: ""

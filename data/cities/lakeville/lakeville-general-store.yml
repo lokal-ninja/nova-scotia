@@ -1,11 +1,11 @@
 id: 548235267
-type: way
+type: node
 latitude: 45.11386
 longitude: -64.59819
-postcode: "B4N 3V7"
+postcode: B4N 3V7
 city: Lakeville
-street: "NS-221"
-housenumber: 6709
-phone: "+1-902-678-4446"
+street: NS-221
+housenumber: "6709"
+phone: +1-902-678-4446
 opening_hours: ""
 website: ""

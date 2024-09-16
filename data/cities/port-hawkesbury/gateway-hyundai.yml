@@ -1,11 +1,11 @@
 id: 980661962
-type: way
+type: node
 latitude: 45.61718
 longitude: -61.33162
 postcode: ""
 city: Port Hawkesbury
-street: "Paint Street"
-housenumber: 42
+street: Paint Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

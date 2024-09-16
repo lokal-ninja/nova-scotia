@@ -1,11 +1,11 @@
 id: 363363486
-type: way
+type: node
 latitude: 44.67449
 longitude: -63.58256
-postcode: "B3A 3L2"
+postcode: B3A 3L2
 city: Dartmouth
-street: "Wyse Road"
-housenumber: 210
+street: Wyse Road
+housenumber: "210"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00; Su 08:00-21:00"
+opening_hours: Mo-Sa 07:00-23:00; Su 08:00-21:00
 website: ""

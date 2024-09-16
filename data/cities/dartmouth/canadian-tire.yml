@@ -1,11 +1,11 @@
 id: 363961422
-type: way
+type: node
 latitude: 44.70038
 longitude: -63.56983
-postcode: "B3B 0B5"
+postcode: B3B 0B5
 city: Dartmouth
-street: "Lamont Terrace"
-housenumber: 30
+street: Lamont Terrace
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

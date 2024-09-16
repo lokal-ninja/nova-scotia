@@ -1,11 +1,11 @@
 id: 447026648
-type: way
+type: node
 latitude: 44.98477
 longitude: -64.95672
-postcode: "B0P 1R0"
+postcode: B0P 1R0
 city: Kingston
-street: "Main Street"
-housenumber: 436
-phone: "+1 902-765-8224"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
+street: Main Street
+housenumber: "436"
+phone: +1 902-765-8224
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
 website: ""

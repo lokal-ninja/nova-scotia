@@ -1,11 +1,11 @@
 id: 804512594
-type: way
+type: node
 latitude: 44.98034
 longitude: -63.50877
-postcode: "B2S 2L1"
+postcode: B2S 2L1
 city: Elmsdale
-street: "Highway 214"
-housenumber: 291
-phone: "+1 902-883-9372"
+street: Highway 214
+housenumber: "291"
+phone: +1 902-883-9372
 opening_hours: ""
 website: ""

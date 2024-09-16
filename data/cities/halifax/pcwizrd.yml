@@ -2,10 +2,10 @@ id: 2899197615
 type: node
 latitude: 44.65129
 longitude: -63.63476
-postcode: "B3N 2E4"
+postcode: B3N 2E4
 city: Halifax
-street: "Melrose Avenue"
-housenumber: 62
+street: Melrose Avenue
+housenumber: "62"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

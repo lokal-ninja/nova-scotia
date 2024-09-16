@@ -1,11 +1,11 @@
 id: 748892446
-type: way
+type: node
 latitude: 43.83471
 longitude: -66.12023
 postcode: ""
 city: Yarmouth
-street: "Main Street"
-housenumber: 278
-phone: "+1 902-742-8451"
+street: Main Street
+housenumber: "278"
+phone: +1 902-742-8451
 opening_hours: ""
-website: "https://www.friendsofjanes.com/"
+website: https://www.friendsofjanes.com/

@@ -1,11 +1,11 @@
 id: 362127523
-type: way
+type: node
 latitude: 44.64784
 longitude: -63.62093
-postcode: "B3L 4X6"
+postcode: B3L 4X6
 city: Halifax
-street: "Mumford Road"
-housenumber: 7004
-phone: "+1-902-455-7004"
+street: Mumford Road
+housenumber: "7004"
+phone: +1-902-455-7004
 opening_hours: ""
-website: "https://www.hsstudio.ca/"
+website: https://www.hsstudio.ca/

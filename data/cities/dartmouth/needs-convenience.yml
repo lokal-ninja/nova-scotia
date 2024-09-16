@@ -1,11 +1,11 @@
 id: 449276288
-type: way
+type: node
 latitude: 44.67876
 longitude: -63.55143
 postcode: ""
 city: Dartmouth
-street: "Prince Albert Road"
-housenumber: 303
+street: Prince Albert Road
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

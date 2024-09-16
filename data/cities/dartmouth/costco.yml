@@ -1,11 +1,11 @@
 id: 178229938
-type: way
+type: node
 latitude: 44.70605
 longitude: -63.56679
-postcode: "B3B 0E7"
+postcode: B3B 0E7
 city: Dartmouth
-street: "Countryview Drive"
-housenumber: 137
-phone: "+1-902-481-7635"
-opening_hours: "Mo-Fr 10:00-20:30, Sa 09:30-18:00, Su 10:00-17:00"
-website: "https://www.costco.ca/warehouse-locations/dartmouth-ns-551.html"
+street: Countryview Drive
+housenumber: "137"
+phone: +1-902-481-7635
+opening_hours: Mo-Fr 10:00-20:30, Sa 09:30-18:00, Su 10:00-17:00
+website: https://www.costco.ca/warehouse-locations/dartmouth-ns-551.html

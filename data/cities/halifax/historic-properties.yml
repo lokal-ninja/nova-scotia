@@ -1,11 +1,11 @@
 id: 360727965
-type: way
+type: node
 latitude: 44.64999
 longitude: -63.57337
-postcode: "B3J 1S9"
+postcode: B3J 1S9
 city: Halifax
-street: "Upper Water Street"
-housenumber: 1869
+street: Upper Water Street
+housenumber: "1869"
 phone: ""
 opening_hours: ""
-website: "https://www.historicproperties.ca/"
+website: https://www.historicproperties.ca/

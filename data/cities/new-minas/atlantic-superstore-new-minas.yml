@@ -1,11 +1,11 @@
 id: 247140342
-type: way
+type: node
 latitude: 45.06717
 longitude: -64.45686
 postcode: ""
 city: New Minas
-street: "Commercial Street"
-housenumber: 9064
+street: Commercial Street
+housenumber: "9064"
 phone: ""
 opening_hours: ""
 website: ""

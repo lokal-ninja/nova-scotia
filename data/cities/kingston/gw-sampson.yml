@@ -1,11 +1,11 @@
 id: 447026668
-type: way
+type: node
 latitude: 44.98782
 longitude: -64.94638
-postcode: "B0P 1R0"
+postcode: B0P 1R0
 city: Kingston
-street: "Park Road"
-housenumber: 1488
+street: Park Road
+housenumber: "1488"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://gwsampson.com/"
+opening_hours: Mo-Sa 08:00-17:00
+website: https://gwsampson.com/

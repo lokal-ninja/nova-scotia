@@ -4,8 +4,8 @@ latitude: 44.67323
 longitude: -63.53111
 postcode: ""
 city: Dartmouth
-street: "Woodlawn Road"
-housenumber: 114
-phone: "+1 902-468-8856"
-opening_hours: "closed"
-website: "https://www.deluxedrycleaners.ca/"
+street: Woodlawn Road
+housenumber: "114"
+phone: +1 902-468-8856
+opening_hours: closed
+website: https://www.deluxedrycleaners.ca/

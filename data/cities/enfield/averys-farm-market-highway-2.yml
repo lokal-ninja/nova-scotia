@@ -1,11 +1,11 @@
 id: 660592846
-type: way
+type: node
 latitude: 44.95205
 longitude: -63.52382
-postcode: "B2T 1M4"
+postcode: B2T 1M4
 city: Enfield
-street: "Highway 2"
-housenumber: 461
-phone: "+1-902-883-7995"
+street: Highway 2
+housenumber: "461"
+phone: +1-902-883-7995
 opening_hours: ""
 website: ""

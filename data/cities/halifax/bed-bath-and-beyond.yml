@@ -2,10 +2,10 @@ id: 9913040077
 type: node
 latitude: 44.65307
 longitude: -63.67412
-postcode: "B3S 1C5"
+postcode: B3S 1C5
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 208
-phone: "+1 902-450-5511"
+street: Chain Lake Drive
+housenumber: "208"
+phone: +1 902-450-5511
 opening_hours: ""
-website: "https://www.bedbathandbeyond.ca/"
+website: https://www.bedbathandbeyond.ca/

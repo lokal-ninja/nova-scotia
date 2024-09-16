@@ -1,11 +1,11 @@
 id: 183095049
-type: way
+type: node
 latitude: 44.64866
 longitude: -63.62055
 postcode: ""
 city: Halifax
-street: "Mumford Road"
-housenumber: 7001
+street: Mumford Road
+housenumber: "7001"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 255678196
-type: way
+type: node
 latitude: 44.72944
 longitude: -65.49123
-postcode: "B0S 1J0"
+postcode: B0S 1J0
 city: Lequille
-street: "Highway 8"
-housenumber: 9543
-phone: "+1-902-532-5362"
+street: Highway 8
+housenumber: "9543"
+phone: +1-902-532-5362
 opening_hours: ""
-website: "http://lequillecountrystore.com/"
+website: http://lequillecountrystore.com/

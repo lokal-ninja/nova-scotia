@@ -1,11 +1,11 @@
 id: 458947273
-type: way
+type: node
 latitude: 44.69808
 longitude: -63.49171
-postcode: "B2W 3T8"
+postcode: B2W 3T8
 city: Westphal
-street: "Highway 7"
-housenumber: 782
-phone: "+1-902-434-3675"
+street: Highway 7
+housenumber: "782"
+phone: +1-902-434-3675
 opening_hours: ""
 website: ""

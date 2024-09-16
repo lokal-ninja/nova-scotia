@@ -1,11 +1,11 @@
 id: 285888759
-type: way
+type: node
 latitude: 45.06735
 longitude: -64.1798
-postcode: "B0P 1P0"
+postcode: B0P 1P0
 city: Hantsport
-street: "Main Street"
-housenumber: 39
-phone: "+1-902-684-3343"
+street: Main Street
+housenumber: "39"
+phone: +1-902-684-3343
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/30209"
+website: https://www.homehardware.ca/en/store/30209

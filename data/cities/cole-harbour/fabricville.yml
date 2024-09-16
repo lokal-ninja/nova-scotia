@@ -1,11 +1,11 @@
 id: 353042423
-type: way
+type: node
 latitude: 44.67309
 longitude: -63.48075
-postcode: "B2V 1M9"
+postcode: B2V 1M9
 city: Cole Harbour
-street: "Cole Harbour Road"
-housenumber: 1211
-phone: "+1 902-434-2581"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://fabricville.com/pages/store-details/22"
+street: Cole Harbour Road
+housenumber: "1211"
+phone: +1 902-434-2581
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://fabricville.com/pages/store-details/22

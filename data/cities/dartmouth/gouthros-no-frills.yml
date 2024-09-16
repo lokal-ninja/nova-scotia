@@ -1,11 +1,11 @@
 id: 98830015
-type: way
+type: node
 latitude: 44.67125
 longitude: -63.57842
-postcode: "B3A 1M6"
+postcode: B3A 1M6
 city: Dartmouth
-street: "Wyse Road"
-housenumber: 118
+street: Wyse Road
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

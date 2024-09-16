@@ -1,11 +1,11 @@
 id: 548140490
-type: way
+type: node
 latitude: 44.7638
 longitude: -65.49929
-postcode: "B0S 1K0"
+postcode: B0S 1K0
 city: Granville Ferry
-street: "Highway 1"
-housenumber: 4793
-phone: "+1-902-532-5575"
+street: Highway 1
+housenumber: "4793"
+phone: +1-902-532-5575
 opening_hours: ""
 website: ""

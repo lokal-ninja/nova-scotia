@@ -1,11 +1,11 @@
 id: 505336808
-type: way
+type: node
 latitude: 44.67
 longitude: -63.52759
-postcode: "B2W 2M3"
+postcode: B2W 2M3
 city: Dartmouth
-street: "Portland Street"
-housenumber: 636
+street: Portland Street
+housenumber: "636"
 phone: ""
 opening_hours: ""
 website: ""

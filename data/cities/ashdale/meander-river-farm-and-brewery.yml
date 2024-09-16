@@ -1,11 +1,11 @@
 id: 959984583
-type: way
+type: node
 latitude: 45.00605
 longitude: -63.92558
 postcode: ""
 city: Ashdale
-street: "Woodville Road"
-housenumber: 906
-phone: "+1 902-757-3484"
+street: Woodville Road
+housenumber: "906"
+phone: +1 902-757-3484
 opening_hours: ""
-website: "https://www.meanderriverfarm.ca"
+website: https://www.meanderriverfarm.ca

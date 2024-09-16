@@ -1,11 +1,11 @@
 id: 547696414
-type: way
+type: node
 latitude: 45.60741
 longitude: -61.07843
-postcode: "B0E 1V0"
+postcode: B0E 1V0
 city: Louisdale
-street: "Highway 20"
-housenumber: 474
-phone: "+1-902-345-3332"
+street: Highway 20
+housenumber: "474"
+phone: +1-902-345-3332
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 632942895
-type: way
+type: node
 latitude: 46.19204
 longitude: -59.97406
-postcode: "B1A 4W5"
+postcode: B1A 4W5
 city: Glace Bay
-street: "Reserve Street"
-housenumber: 122
+street: Reserve Street
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

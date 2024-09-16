@@ -1,11 +1,11 @@
 id: 773838578
-type: way
+type: node
 latitude: 46.14729
 longitude: -60.13741
-postcode: "B1P 6S9"
+postcode: B1P 6S9
 city: Sydney
-street: "Grand Lake Road"
-housenumber: 800
-phone: "+1 902-539-4027"
+street: Grand Lake Road
+housenumber: "800"
+phone: +1 902-539-4027
 opening_hours: ""
-website: "https://stores.staples.ca/ns/sydney/office-supplies-ca-91.html"
+website: https://stores.staples.ca/ns/sydney/office-supplies-ca-91.html

@@ -1,11 +1,11 @@
 id: 1208306406
-type: way
+type: node
 latitude: 43.86914
 longitude: -66.10807
-postcode: "B5A 5A1"
+postcode: B5A 5A1
 city: Dayton
-street: "Highway 1"
-housenumber: 285
+street: Highway 1
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

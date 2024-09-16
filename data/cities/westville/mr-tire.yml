@@ -1,11 +1,11 @@
 id: 458582206
-type: way
+type: node
 latitude: 45.5619
 longitude: -62.71064
-postcode: "B0K 2A0"
+postcode: B0K 2A0
 city: Westville
-street: "Main Street"
-housenumber: 1756
+street: Main Street
+housenumber: "1756"
 phone: ""
 opening_hours: ""
 website: ""

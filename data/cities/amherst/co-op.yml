@@ -1,11 +1,11 @@
 id: 553773087
-type: way
+type: node
 latitude: 45.83405
 longitude: -64.21493
-postcode: "B4H 3G4"
+postcode: B4H 3G4
 city: Amherst
-street: "Lawrence Street"
-housenumber: 17
-phone: "+1-902-661-0185"
+street: Lawrence Street
+housenumber: "17"
+phone: +1-902-661-0185
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1213608210
-type: way
+type: node
 latitude: 44.23107
 longitude: -64.57365
-postcode: "B4V 6H7"
+postcode: B4V 6H7
 city: Middlewood
-street: "Camperdown School Road"
-housenumber: 4
+street: Camperdown School Road
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

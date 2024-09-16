@@ -1,11 +1,11 @@
 id: 247140338
-type: way
+type: node
 latitude: 45.06876
 longitude: -64.45462
-postcode: "B4N 3E6"
+postcode: B4N 3E6
 city: New Minas
-street: "Commercial Street"
-housenumber: 9081
-phone: "+1 902-681-3840"
+street: Commercial Street
+housenumber: "9081"
+phone: +1 902-681-3840
 opening_hours: ""
-website: "https://stores.staples.ca/ns/newminas/office-supplies-ca-149.html"
+website: https://stores.staples.ca/ns/newminas/office-supplies-ca-149.html

@@ -1,11 +1,11 @@
 id: 884553351
-type: way
+type: node
 latitude: 44.98612
 longitude: -64.94984
-postcode: "B0P 1R0"
+postcode: B0P 1R0
 city: Kingston
-street: "Bridge Street"
-housenumber: 1525
-phone: "+1 902-242-2274"
-opening_hours: "We-Fr 12:00-18:00; Sa 11:00-15:00"
+street: Bridge Street
+housenumber: "1525"
+phone: +1 902-242-2274
+opening_hours: We-Fr 12:00-18:00; Sa 11:00-15:00
 website: ""

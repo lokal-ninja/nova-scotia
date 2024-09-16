@@ -1,11 +1,11 @@
 id: 926863958
-type: way
+type: node
 latitude: 44.94617
 longitude: -65.06068
 postcode: ""
 city: Middleton
-street: "Main Street"
-housenumber: 438
+street: Main Street
+housenumber: "438"
 phone: ""
 opening_hours: ""
 website: ""

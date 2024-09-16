@@ -1,11 +1,11 @@
 id: 867884936
-type: way
+type: node
 latitude: 44.55376
 longitude: -64.32592
-postcode: "B0J2K0"
+postcode: B0J2K0
 city: Chester Basin
-street: "Beech Hill Road"
-housenumber: 21
-phone: "+1 902-627-1265"
+street: Beech Hill Road
+housenumber: "21"
+phone: +1 902-627-1265
 opening_hours: ""
-website: "https://www.acadiafirstnation.ca/the-gold-nugget.html"
+website: https://www.acadiafirstnation.ca/the-gold-nugget.html

@@ -1,11 +1,11 @@
 id: 175673953
-type: way
+type: node
 latitude: 44.97691
 longitude: -63.50736
-postcode: "B2S 3J4"
+postcode: B2S 3J4
 city: Elmsdale
-street: "Mason Lane"
-housenumber: 27
-phone: "+1 902-883-8160"
+street: Mason Lane
+housenumber: "27"
+phone: +1 902-883-8160
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-elmsdale-ns-esso-200303494"
+website: https://www.esso.ca/en-ca/find-station/esso-elmsdale-ns-esso-200303494

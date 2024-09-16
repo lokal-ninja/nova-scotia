@@ -1,11 +1,11 @@
 id: 884555368
-type: way
+type: node
 latitude: 44.9821
 longitude: -64.96167
-postcode: "B0P 1R0"
+postcode: B0P 1R0
 city: Kingston
-street: "Main Street"
-housenumber: 329
-phone: "+1 902-765-0055"
+street: Main Street
+housenumber: "329"
+phone: +1 902-765-0055
 opening_hours: ""
-website: "https://www.greenwoodrentall.ca/"
+website: https://www.greenwoodrentall.ca/

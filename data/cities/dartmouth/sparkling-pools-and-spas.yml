@@ -1,11 +1,11 @@
 id: 502924004
-type: way
+type: node
 latitude: 44.69276
 longitude: -63.50276
-postcode: "B2W 4K1"
+postcode: B2W 4K1
 city: Dartmouth
-street: "Main Street"
-housenumber: 515
+street: Main Street
+housenumber: "515"
 phone: ""
 opening_hours: ""
 website: ""

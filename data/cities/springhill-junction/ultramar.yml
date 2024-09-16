@@ -1,11 +1,11 @@
 id: 548555148
-type: way
+type: node
 latitude: 45.67001
 longitude: -64.0689
-postcode: "B0M 1X0"
+postcode: B0M 1X0
 city: Springhill Junction
-street: "Highway 2"
-housenumber: 15549
-phone: "+1-902-597-2701"
+street: Highway 2
+housenumber: "15549"
+phone: +1-902-597-2701
 opening_hours: ""
 website: ""

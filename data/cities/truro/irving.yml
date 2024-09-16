@@ -1,11 +1,11 @@
 id: 307806659
-type: way
+type: node
 latitude: 45.36805
 longitude: -63.31798
-postcode: "B2N 1K8"
+postcode: B2N 1K8
 city: Truro
-street: "Robie Street"
-housenumber: 7
-phone: "+1 902-895-4343"
+street: Robie Street
+housenumber: "7"
+phone: +1 902-895-4343
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 358578804
-type: way
+type: node
 latitude: 44.65647
 longitude: -63.60013
-postcode: "B3K 1T9"
+postcode: B3K 1T9
 city: Halifax
-street: "Almon Street"
-housenumber: 6055
+street: Almon Street
+housenumber: "6055"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

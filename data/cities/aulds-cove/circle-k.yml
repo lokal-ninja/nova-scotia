@@ -1,11 +1,11 @@
 id: 547447977
-type: way
+type: node
 latitude: 45.64949
 longitude: -61.43914
-postcode: "B0H 1P0"
+postcode: B0H 1P0
 city: Aulds Cove
-street: "Highway 104"
-housenumber: 13329
-phone: "+1 902-747-3264"
-opening_hours: "24/7"
+street: Highway 104
+housenumber: "13329"
+phone: +1 902-747-3264
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 362973469
-type: way
+type: node
 latitude: 44.66324
 longitude: -63.65811
-postcode: "B3M 3Y7"
+postcode: B3M 3Y7
 city: Halifax
-street: "Lacewood Drive"
-housenumber: 287
-phone: "+1-902-457-2102"
+street: Lacewood Drive
+housenumber: "287"
+phone: +1-902-457-2102
 opening_hours: ""
 website: ""

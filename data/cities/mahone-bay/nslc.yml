@@ -1,11 +1,11 @@
 id: 608988919
-type: way
+type: node
 latitude: 44.4498
 longitude: -64.38947
 postcode: ""
 city: Mahone Bay
-street: "Main Street"
-housenumber: 372
+street: Main Street
+housenumber: "372"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 180651236
-type: way
+type: node
 latitude: 44.69781
 longitude: -63.66131
-postcode: "B3M 2L8"
+postcode: B3M 2L8
 city: Halifax
-street: "Bedford Highway"
-housenumber: 604
+street: Bedford Highway
+housenumber: "604"
 phone: ""
 opening_hours: ""
 website: ""

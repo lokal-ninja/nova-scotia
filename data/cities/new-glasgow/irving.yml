@@ -1,11 +1,11 @@
 id: 548450722
-type: way
+type: node
 latitude: 45.56774
 longitude: -62.64459
-postcode: "B2H 5C5"
+postcode: B2H 5C5
 city: New Glasgow
-street: "East River Road"
-housenumber: 5197
-phone: "+1-902-755-7534"
+street: East River Road
+housenumber: "5197"
+phone: +1-902-755-7534
 opening_hours: ""
 website: ""

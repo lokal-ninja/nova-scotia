@@ -1,11 +1,11 @@
 id: 358578762
-type: way
+type: node
 latitude: 44.65073
 longitude: -63.58082
-postcode: "B3K 3B1"
+postcode: B3K 3B1
 city: Halifax
-street: "Gottingen Street"
-housenumber: 2003
-phone: "+1 902-474-5100"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://stores.staples.ca/ns/halifax/office-supplies-ca-148.html"
+street: Gottingen Street
+housenumber: "2003"
+phone: +1 902-474-5100
+opening_hours: Mo-Fr 09:00-19:00
+website: https://stores.staples.ca/ns/halifax/office-supplies-ca-148.html

@@ -1,11 +1,11 @@
 id: 283456961
-type: way
+type: node
 latitude: 45.09187
 longitude: -64.36144
-postcode: "B4P 1C9"
+postcode: B4P 1C9
 city: Wolfville
-street: "Main Street"
-housenumber: 418
+street: Main Street
+housenumber: "418"
 phone: ""
 opening_hours: ""
-website: "http://www.cinematopia.ca/"
+website: http://www.cinematopia.ca/

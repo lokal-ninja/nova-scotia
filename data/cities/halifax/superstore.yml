@@ -1,11 +1,11 @@
 id: 8044003
-type: way
+type: node
 latitude: 44.63838
 longitude: -63.56833
-postcode: "B3H 4P1"
+postcode: B3H 4P1
 city: Halifax
-street: "Barrington Street"
-housenumber: 1075
+street: Barrington Street
+housenumber: "1075"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

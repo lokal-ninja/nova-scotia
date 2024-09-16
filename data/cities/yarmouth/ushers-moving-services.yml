@@ -1,11 +1,11 @@
 id: 350618126
-type: way
+type: node
 latitude: 43.83219
 longitude: -66.12051
-postcode: "B5A 1C8"
+postcode: B5A 1C8
 city: Yarmouth
-street: "Main Street"
-housenumber: 212
+street: Main Street
+housenumber: "212"
 phone: ""
 opening_hours: ""
 website: ""

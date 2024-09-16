@@ -1,11 +1,11 @@
 id: 307763531
-type: way
+type: node
 latitude: 45.35257
 longitude: -63.27606
-postcode: "B2N 3Y6"
+postcode: B2N 3Y6
 city: Truro
-street: "Young Street"
-housenumber: 318
+street: Young Street
+housenumber: "318"
 phone: ""
 opening_hours: ""
 website: ""

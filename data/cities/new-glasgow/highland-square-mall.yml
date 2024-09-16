@@ -1,11 +1,11 @@
 id: 223204183
-type: way
+type: node
 latitude: 45.57958
 longitude: -62.6682
-postcode: "B2H 2J6"
+postcode: B2H 2J6
 city: New Glasgow
-street: "Westville Road"
-housenumber: 689
-phone: "+1-902-752-1722"
+street: Westville Road
+housenumber: "689"
+phone: +1-902-752-1722
 opening_hours: ""
-website: "https://www.highlandsquare.ca/"
+website: https://www.highlandsquare.ca/

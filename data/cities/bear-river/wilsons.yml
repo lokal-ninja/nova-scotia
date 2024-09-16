@@ -1,11 +1,11 @@
 id: 548139616
-type: way
+type: node
 latitude: 44.57554
 longitude: -65.64099
-postcode: "B0S 1B0"
+postcode: B0S 1B0
 city: Bear River
-street: "River Road"
-housenumber: 1245
-phone: "+1-902-467-3969"
+street: River Road
+housenumber: "1245"
+phone: +1-902-467-3969
 opening_hours: ""
 website: ""

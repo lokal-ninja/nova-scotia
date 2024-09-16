@@ -1,11 +1,11 @@
 id: 460363110
-type: way
+type: node
 latitude: 44.73468
 longitude: -63.3805
-postcode: "B3E 1C9"
+postcode: B3E 1C9
 city: Lake Echo
-street: "Ponderosa Drive"
-housenumber: 56
-phone: "+1-902-829-3456"
+street: Ponderosa Drive
+housenumber: "56"
+phone: +1-902-829-3456
 opening_hours: ""
-website: "http://www.norwoodgardens.ca/"
+website: http://www.norwoodgardens.ca/

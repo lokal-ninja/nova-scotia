@@ -1,11 +1,11 @@
 id: 266638456
-type: way
+type: node
 latitude: 44.64333
 longitude: -63.57895
 postcode: ""
 city: Halifax
-street: "Spring Garden Road"
-housenumber: 5657
+street: Spring Garden Road
+housenumber: "5657"
 phone: ""
 opening_hours: ""
-website: "http://shopparklane.ca"
+website: http://shopparklane.ca

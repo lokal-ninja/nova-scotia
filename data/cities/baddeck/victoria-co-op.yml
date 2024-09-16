@@ -1,11 +1,11 @@
 id: 279464359
-type: way
+type: node
 latitude: 46.09925
 longitude: -60.75221
-postcode: "B0E 1B0"
+postcode: B0E 1B0
 city: Baddeck
-street: "Twining Street"
-housenumber: 48
-phone: "+1 902-295-2384"
-opening_hours: "Mo-We,Sa 08:30-17:30; Th-Fr 08:30-19:30"
-website: "https://foodland.ca/stores/co-op-victoria-farmers"
+street: Twining Street
+housenumber: "48"
+phone: +1 902-295-2384
+opening_hours: Mo-We,Sa 08:30-17:30; Th-Fr 08:30-19:30
+website: https://foodland.ca/stores/co-op-victoria-farmers

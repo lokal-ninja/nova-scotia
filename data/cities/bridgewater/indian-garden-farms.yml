@@ -1,11 +1,11 @@
 id: 926483783
-type: way
+type: node
 latitude: 44.3465
 longitude: -64.53565
-postcode: "B4V 6X7"
+postcode: B4V 6X7
 city: Bridgewater
-street: "Highway 3"
-housenumber: 15401
-phone: "+1 902-543-9899"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "http://indiangardenfarms.net/"
+street: Highway 3
+housenumber: "15401"
+phone: +1 902-543-9899
+opening_hours: Mo-Su 09:00-18:00
+website: http://indiangardenfarms.net/

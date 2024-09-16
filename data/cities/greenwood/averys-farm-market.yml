@@ -1,11 +1,11 @@
 id: 884563940
-type: way
+type: node
 latitude: 44.96588
 longitude: -64.9435
-postcode: "B0P 1N0"
+postcode: B0P 1N0
 city: Greenwood
-street: "Central Avenue"
-housenumber: 619
-phone: "+1 902-765-8494"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
+street: Central Avenue
+housenumber: "619"
+phone: +1 902-765-8494
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
 website: ""

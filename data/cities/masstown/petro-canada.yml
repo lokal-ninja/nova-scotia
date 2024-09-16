@@ -1,11 +1,11 @@
 id: 548473144
-type: way
+type: node
 latitude: 45.39296
 longitude: -63.49437
-postcode: "B0M 1G0"
+postcode: B0M 1G0
 city: Masstown
-street: "Highway 2"
-housenumber: 10639
-phone: "+1-902-662-2500"
+street: Highway 2
+housenumber: "10639"
+phone: +1-902-662-2500
 opening_hours: ""
 website: ""

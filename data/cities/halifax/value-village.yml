@@ -1,11 +1,11 @@
 id: 358578759
-type: way
+type: node
 latitude: 44.64505
 longitude: -63.66835
-postcode: "B3S 1B3"
+postcode: B3S 1B3
 city: Halifax
-street: "Chain Lake Drive"
-housenumber: 165
-phone: "+1-902-450-5134"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://stores.savers.com/ns/halifax/savers-thrift-store-2046.html"
+street: Chain Lake Drive
+housenumber: "165"
+phone: +1-902-450-5134
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://stores.savers.com/ns/halifax/savers-thrift-store-2046.html

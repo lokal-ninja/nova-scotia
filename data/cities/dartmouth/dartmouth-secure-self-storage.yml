@@ -1,11 +1,11 @@
 id: 469846241
-type: way
+type: node
 latitude: 44.66834
 longitude: -63.53732
 postcode: ""
 city: Dartmouth
-street: "Green Village Lane"
-housenumber: 104
+street: Green Village Lane
+housenumber: "104"
 phone: ""
 opening_hours: ""
-website: "https://www.dartmouthsecure.com/"
+website: https://www.dartmouthsecure.com/

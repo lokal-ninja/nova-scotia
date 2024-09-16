@@ -1,11 +1,11 @@
 id: 872825500
-type: way
+type: node
 latitude: 44.97899
 longitude: -63.50352
 postcode: ""
 city: Elmsdale
-street: "Mason Lane"
-housenumber: 84
+street: Mason Lane
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

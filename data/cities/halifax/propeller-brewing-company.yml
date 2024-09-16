@@ -1,11 +1,11 @@
 id: 370035416
-type: way
+type: node
 latitude: 44.65105
 longitude: -63.58138
-postcode: "B3K 3A9"
+postcode: B3K 3A9
 city: Halifax
-street: "Gottingen Street"
-housenumber: 2015
+street: Gottingen Street
+housenumber: "2015"
 phone: ""
-opening_hours: "Su 12:00-22:00; Mo,Tu 12:00-20:00; We,Th 12:00-22:00; Fr,Sa 12:00-24:00"
-website: "https://drinkpropeller.ca/"
+opening_hours: Su 12:00-22:00; Mo,Tu 12:00-20:00; We,Th 12:00-22:00; Fr,Sa 12:00-24:00
+website: https://drinkpropeller.ca/

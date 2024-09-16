@@ -1,11 +1,11 @@
 id: 1179849147
-type: way
+type: node
 latitude: 44.30315
 longitude: -64.56395
-postcode: "B4V 2V9"
+postcode: B4V 2V9
 city: Hebbs Cross
-street: "Highway 103"
-housenumber: 16554
-phone: "+1-902-543-8250"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "http://bobandtheboys.com"
+street: Highway 103
+housenumber: "16554"
+phone: +1-902-543-8250
+opening_hours: Mo-Su 09:00-19:00
+website: http://bobandtheboys.com

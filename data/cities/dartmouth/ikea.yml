@@ -1,11 +1,11 @@
 id: 465902160
-type: way
+type: node
 latitude: 44.7127
 longitude: -63.55898
-postcode: "B3B 0M2"
+postcode: B3B 0M2
 city: Dartmouth
-street: "Cutler Avenue"
-housenumber: 645
-phone: "+1 866-866-4532"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 10:00-18:00"
-website: "https://www.ikea.com/"
+street: Cutler Avenue
+housenumber: "645"
+phone: +1 866-866-4532
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:30-21:00; Su 10:00-18:00
+website: https://www.ikea.com/
