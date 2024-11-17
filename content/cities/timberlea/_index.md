@@ -1,6 +1,6 @@
 ---
 title: Timberlea
 url: /timberlea/
-latitude: 44.666
-longitude: -63.763
+latitude: 44.637
+longitude: -63.717
 ---
