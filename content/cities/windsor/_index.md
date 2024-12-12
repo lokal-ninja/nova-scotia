@@ -1,6 +1,6 @@
 ---
 title: Windsor
 url: /windsor/
-latitude: 44.989
-longitude: -64.114
+latitude: 44.994
+longitude: -64.127
 ---

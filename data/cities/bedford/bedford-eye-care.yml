@@ -7,5 +7,6 @@ city: Bedford
 street: Duke Street
 housenumber: "36"
 phone: +1-902-835-2020
-opening_hours: ""
-website: ""
+opening_hours: Mo,Fr 08:00-17:00; Tu 08:00-19:00; We 08:00-18:00; Th 09:00-19:00;
+    Sa 08:00-13:00; Su off
+website: https://bedfordeyecare.net
