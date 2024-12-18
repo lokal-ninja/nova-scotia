@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /halifax/sunglass-hut/
-shop: shop
+shop: optician
 ---
