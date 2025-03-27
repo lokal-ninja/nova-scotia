@@ -1,5 +1,5 @@
 ---
 title: "The eShop"
-url: /halifax/the-eshop/
+url: /beechville/the-eshop/
 shop: bicycle
 ---
