@@ -1,6 +1,6 @@
 ---
 title: East Lawrencetown
 url: /east-lawrencetown/
-latitude: 44.644
-longitude: -63.355
+latitude: 44.642
+longitude: -63.319
 ---
