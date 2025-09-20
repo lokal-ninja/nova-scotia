@@ -1,6 +1,6 @@
 ---
 title: Lunenburg
 url: /lunenburg/
-latitude: 44.376
-longitude: -64.311
+latitude: 44.378
+longitude: -64.317
 ---
