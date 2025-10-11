@@ -1,5 +1,5 @@
 ---
 title: "DeSerres"
 url: /halifax/deserres/
-shop: doityourself
+shop: craft
 ---
