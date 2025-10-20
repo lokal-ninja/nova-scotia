@@ -1,6 +1,6 @@
 ---
 title: Bridgewater
 url: /bridgewater/
-latitude: 44.385
-longitude: -64.518
+latitude: 44.37
+longitude: -64.525
 ---
