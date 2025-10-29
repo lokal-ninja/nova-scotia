@@ -7,5 +7,6 @@ city: Halifax
 street: Agricola Street
 housenumber: "2385"
 phone: +1 902-446-3301
-opening_hours: We 02:30-18:30; Fr 13:00-17:00; Sa 00:00-16:00; Su 12:00-14:00
+opening_hours: We 14:30-18:30; Fr 13:00-17:00; Sa 12:00-16:00; Su 12:00-14:00; Tu
+    17:30-19:30
 website: https://thegrainery.ca/
