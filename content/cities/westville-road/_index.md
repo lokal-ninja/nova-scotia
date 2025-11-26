@@ -1,6 +1,6 @@
 ---
 title: Westville Road
 url: /westville-road/
-latitude: 45.578
-longitude: -62.724
+latitude: 45.581
+longitude: -62.671
 ---

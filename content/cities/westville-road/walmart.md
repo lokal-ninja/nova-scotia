@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /new-glasgow/walmart/
+url: /westville-road/walmart/
 shop: department store
 ---
