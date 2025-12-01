@@ -1,6 +1,6 @@
 ---
 title: Glace Bay
 url: /glace-bay/
-latitude: 46.19
-longitude: -59.976
+latitude: 46.193
+longitude: -59.955
 ---
