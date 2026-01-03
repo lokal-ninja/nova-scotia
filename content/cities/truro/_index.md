@@ -1,6 +1,6 @@
 ---
 title: Truro
 url: /truro/
-latitude: 45.367
-longitude: -63.273
+latitude: 45.364
+longitude: -63.276
 ---
