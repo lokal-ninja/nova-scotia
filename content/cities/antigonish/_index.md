@@ -1,6 +1,6 @@
 ---
 title: Antigonish
 url: /antigonish/
-latitude: 45.615
-longitude: -62.002
+latitude: 45.625
+longitude: -61.985
 ---
