@@ -1,6 +1,6 @@
 ---
 title: Lawrencetown
 url: /lawrencetown/
-latitude: 44.874
-longitude: -65.164
+latitude: 44.883
+longitude: -65.157
 ---
