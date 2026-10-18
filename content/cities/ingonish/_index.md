@@ -1,6 +1,6 @@
 ---
 title: Ingonish
 url: /ingonish/
-latitude: 46.685
-longitude: -60.406
+latitude: 46.69
+longitude: -60.389
 ---

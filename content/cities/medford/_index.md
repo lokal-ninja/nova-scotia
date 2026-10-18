@@ -1,6 +1,6 @@
 ---
 title: Medford
 url: /medford/
-latitude: 45.176
-longitude: -64.367
+latitude: 45.171
+longitude: -64.364
 ---
